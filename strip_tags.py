@@ -30,11 +30,7 @@ def parse_table_of_contents(table_of_contents_raw):
 counter = 0
 file_addresses = parse_table_of_contents(table_of_contents_req.text)
 
-for address in file_addresses:
-    counter += 1
-    if (counter == 1):     
-        file_content = get_file_content(address)
-        split_into_sections(strip_html(file_content))
+
 
     
 
