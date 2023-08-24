@@ -161,11 +161,7 @@ ACUTE KIDNEY INJURYAcute Kidney Injury (AKI) is a term that has now replaced the
 
 ACUTE LOWER ABDOMINAL PAINAcute lower abdominal pain in a woman may have several causes. These include Pelvic Inflammatory Disease (PID), ruptured ectopic pregnancy and septic abortion. The latter two are surgical emergencies, which require extreme urgency in their management (See sections on 'Ectopic Pregnancy' and 'Abortions').PID is caused by organisms which may be Sexually Transmitted Infection (STI)-related or other bacteria that ascend from the lower genital tract and produce inflammation of the uterus, fallopian tubes and other structures in the pelvis. However, after excluding ectopic pregnancy, STI-related organisms are the most likely cause of lower abdominal pain in a sexually active woman who has not recently delivered a baby, or has no past or recent history of uterine instrumentation. The presence of intrauterine contraceptive devices (IUCD) favours the development of PID particularly in the month following insertion. CAUSESEctopic pregnancyAppendicitisOvarian torsionSTI-relatedNon STI-related (e.g urinary tract infection)Septic abortionPost partum sepsisForeign body including IUCDSYMPTOMSFeverLower abdominal painPain with sexual intercourse (dyspareunia)Offensive vaginal dischargeDysuria or urethral discomfortSIGNSAbnormal vaginal dischargeTenderness on moving the cervix (cervical excitation) on bimanual vaginal examinationLower abdominal tendernessAdnexal tendernessAdnexal massesINVESTIGATIONSPelvic ultrasoundPregnancy test (if sexually active and amenorrhoea present)High vaginal swab culture and sensitivityTREATMENTTreatment objectivesTo identify and manage potential life threatening causes e.g. ectopicTo treat any underlying bacterial infectionTo relieve pain and inflammationNon-pharmacological treatmentSurgery where indicatedRemove IUD, if present,3 days after initiation of drug therapyPharmacological treatmentFor Pelvic inflammatory Disease (mild cases)1st Line Treatment Evidence Rating: [B]Ciprofloxacin, oral,500 mg 12 hourly for 3 daysAndDoxycycline, oral,100 mg 12 hourly for 14 daysAndMetronidazole, oral, 400 mg 12 hourly for 14 daysFor Pelvic inflammatory Disease (severe cases)Ceftriaxone, IM, 250 mg daily for 3 daysAndDoxycycline, oral,100 mg 12 hourly for 3 daysAndMetronidazole, IV, 500 mg 8 hourly for 3 daysThenDoxycycline, oral,100 mg 12 hourly for 14 daysAndMetronidazole, oral, 400 mg 12 hourly for 14 daysPain ReliefDiclofenac, rectal, oral, IM, 50-100 mg 8 to 12 hourly (max. 100 mg twice daily)OrMefenamic Acid, oral, 500 mg 8 hourlyREFERRAL CRITERIARefer to a gynaecologist or general surgeon if there is no improvement or if a pelvic abscess is suspected.
 
-     FLOWCHART
     
-    
-    
-    Fig 14-5: Flowchart: Acute Lower Abdominal Pain
 
 
 
@@ -569,53 +565,53 @@ Box 13-2: High-risk pregnancies
 
 
 High-risk pregnancies include:
-� Bleeding at any time in the pregnancy before labour
-� Young (<18 years) and older (>35 years) mothers in their first pregnancy
-� Presence of medical conditions such as:
+� Bleeding at any time in the pregnancy before labour
+� Young (<18 years) and older (>35 years) mothers in their first pregnancy
+� Presence of medical conditions such as:
 
 
 
 
-� Severe anaemia
-� Sickle-cell disease
-� Hypertension
-� Diabetes mellitus
-� Heart disease
-� Asthma, chronic cough such as pulmonary tuberculosis and
-� Thyrotoxicosis
-� HIV positivity
+� Severe anaemia
+� Sickle-cell disease
+� Hypertension
+� Diabetes mellitus
+� Heart disease
+� Asthma, chronic cough such as pulmonary tuberculosis and
+� Thyrotoxicosis
+� HIV positivity
 
 
 
 
-� Women with more than 5 children (the grand multiparous mother)
-� Past history of bleeding after delivery or retained placenta
-� Abnormal presentation and position of the baby in the womb at term transverse lie or breech presentation
-� Multiple pregnancies
-� Prolonged pregnancy (when the pregnancy lasts longer than 42 weeks)
-� Contracted pelvis (pelvis too small for the baby to be delivered safely per vaginam). This may be obvious when the mother is short (< 154 cm) or has small feet (shoe size < 4� UK)
+� Women with more than 5 children (the grand multiparous mother)
+� Past history of bleeding after delivery or retained placenta
+� Abnormal presentation and position of the baby in the womb at term transverse lie or breech presentation
+� Multiple pregnancies
+� Prolonged pregnancy (when the pregnancy lasts longer than 42 weeks)
+� Contracted pelvis (pelvis too small for the baby to be delivered safely per vaginam). This may be obvious when the mother is short (< 154 cm) or has small feet (shoe size < 4� UK)
 
 
 
 
-� Big baby at term when the symphysio-fundal height is more than 39-40 cm at term or when the estimated foetal weight is 4 kg or higher
-� Past history of stillbirths or babies who die within the first week of life, especially if they die of the same problem
-� Past pregnancy history of miscarriages around the same gestational age
+� Big baby at term when the symphysio-fundal height is more than 39-40 cm at term or when the estimated foetal weight is 4 kg or higher
+� Past history of stillbirths or babies who die within the first week of life, especially if they die of the same problem
+� Past pregnancy history of miscarriages around the same gestational age
 
 
 
 
-� Decrease in growth of the baby (foetal growth restriction) - uterine size smaller than the gestational age.
-� Uterine size much bigger than the gestational age with one foetus present
+� Decrease in growth of the baby (foetal growth restriction) - uterine size smaller than the gestational age.
+� Uterine size much bigger than the gestational age with one foetus present
 
 
 
 
-� Previous instrumental delivery (vacuum extraction or forceps delivery)
-� Previous operation on the womb such as Caesarean section, myomectomy or when the uterus is repaired after perforation during D&C
-� Preterm labour (labour before 37 completed weeks)
-� Rhesus Negative mothers with Rhesus positive husbands and/or with other antibodies
-� Women who are at risk for sensitization must be given Anti-D Immunoglob- ulin (500 IU) at 28 week and repeated within 72 hours of delivery
+� Previous instrumental delivery (vacuum extraction or forceps delivery)
+� Previous operation on the womb such as Caesarean section, myomectomy or when the uterus is repaired after perforation during D&C
+� Preterm labour (labour before 37 completed weeks)
+� Rhesus Negative mothers with Rhesus positive husbands and/or with other antibodies
+� Women who are at risk for sensitization must be given Anti-D Immunoglob- ulin (500 IU) at 28 week and repeated within 72 hours of delivery
 
 
 
@@ -736,27 +732,7 @@ ABNORMAL VAGINAL BLEEDINGThis refers to bleeding which deviates from the normal 
 
 ABNORMAL VAGINAL DISCHARGEWhile a vaginal discharge is a notable clinical feature of a Sexually Transmitted Infection (STI),not all forms of vaginal discharge are abnormal or indicative of an STI. Vaginal discharge may be associated with normal physiological changes such as the menstrual cycle or pregnancy. Increased discharge may also occur with the presence or use of foreign substances such as the Intra Uterine Contraceptive Device (IUCD).Careful history taking should reveal whether a vaginal discharge is abnormal and if it is associated with use of chemical substances e.g. topical self-medication, repeated douching with abrasive substances or indeed due to STI. Changes in the characteristics of a woman's vaginal discharge either in colour, odour, amount and presence of additional symptoms and signs such as soreness and itchiness indicate a need for medical attention. Abnormal vaginal discharge due to STIs may result in serious pelvic inflammation with sequelae such as ectopic pregnancy and infertility. Careful risk assessment is therefore required (see note below) of women presenting with a vaginal discharge in order to identify the possible causes and provide appropriate treatment regimens based on the most likely aetiology of the vaginal discharge. Factors that must also be considered when selecting treatment for patients include pregnancy status and patient discomfort. Additionally, the syndromic approach must be used to assess the patient, identify risk factors and treat the likely cause of infection. CAUSESSTI-relatedNeisseria gonorrhoeaChlamydia trachomatisTrichomonas vaginalis (green or yellow, smelly, bubbly or frothy discharge associated with itching)Herpes simplex virus (following extensive first episode of infection)Non STI-relatedCandidiasis (white, lumpy or thick discharge associated with itching)Bacterial vaginosis (grey or white, fishy smelling discharge, especially after sexual intercourse)Gardnerella vaginalisForeign bodiesHerbal preparationsSYMPTOMSAbnormal vaginal discharge - change in colour, odour, consistency or amountVulval itchingVulval swellingPain on urinationLower abdominal or back painSIGNSAbnormal vaginal dischargeVulval swellingVulval erythemaLower abdominal tendernessCervical excitation tendernessCervical mucopus or erosions (on speculum examination)INVESTIGATIONSHigh vaginal swab for microscopy, culture and sensitivity (if available)TREATMENTTreatment objectivesTo identify and treat non-STI vaginitisTo assess STI risk and treat STI-related infections appropriatelyTo prevent complications and sequelaeTo treat both partners simultaneously as much as possibleNon-pharmacological treatmentPromote good peri-anal and genital hygieneEncourage use of loose cotton underwearDry underwear out in the sunKeep underwear dryAvoid douching with herbal or chemical preparationsAvoid use of medicated soapsPharmacological treatmentTreatment for Vaginitis due to trichomoniasis and bacterial vaginosisEvidence Rating: [B]Metronidazole, oral, 400 mg 8 hourly for 5 days (contraindicated during the 1st trimester of pregnancy)OrMetronidazole, oral, 2 g stat. (contraindicated during the 1st trimester of pregnancy)OrSecnidazole, oral,2 g stat. (contraindicated during the 1st trimester of pregnancy)Treatment for Vaginitis due to trichomoniasis and bacterial vaginosis for pregnant women in the 1st trimesterClindamycin cream,2%, vaginal, One applicator full at bedtime for 7 days Treatment for Vaginitis due to CandidiasisFluconazole, oral, Uncomplicated: 150 mg stat. as a single dose Complicated: 150 mg 72 hourly for 3 doses                 Recurrent: 150 mg daily for 10 to 14 days followed by 150 mg once weekly for 6 monthsOrClotrimazole, vaginal tablets, 200 mg inserted into vagina at night for 3 daysOrMiconazole vaginal tablets, 200 mg inserted into vagina at night for 3 daysAndClotrimazole cream, vaginal, 1% or 2%, Apply twice daily for 3 to 7 days (for vulval irritation)Treatment for Cervicitis due to gonorrhoea1st Line Treatment Evidence Rating: [B]Cefixime, oral, 400 mg stat.AndAzithromycin, oral, 1 g stat.2nd Line Treatment Evidence Rating: [B]Ceftriaxone, IM, 250 mg stat.AndAzithromycin, oral, 1 g stat.Treatment for Cervicitis due to Chlamydia1st Line Treatment Evidence Rating: [A]Doxycycline, oral,100 mg 12 hourly for 7 days(avoid in pregnant and nursing mothers)OrErythromycin, oral,500 mg 6 hourly for 7 daysOrAzithromycin, oral, 1 g stat. (recommended in pregnancy)REFERRAL CRITERIARefer all cases of recurrent vaginal discharge and/or treatment failures to a health facility where speculum examination can be carried out and microbiological culture and antimicrobial sensitivity tests can be done on the vaginal discharge.
 
-     FLOWCHART
     
-    
-    
-Fig 14-2: Flowchart: Abnormal Vaginal Discharge (Without Speculum)
-
-
- FLOWCHART
-
-
-
-Fig 14-3: Flowchart: Vaginal Discharge With Speculum and Bi-manual Examination
-
-
-
-
-
-    
-    
-    
-
 Back pain This is the commonest cause of reported pain to healthcare facilities. More than 80% of people will have at least one episode in their lifetime. Most are benign and will resolve. However, 33%-66% will have a recurrence within a year. It is important to identify red, and yellow flags. It may be acute if it is less than 3 months and chronic if it is more.Box 22-1: Notes of back painYELLOW flagsPessimistic attitude toward pain, excessive fear of movement and activity and little hope for improvementWork-related problems(e.g. dissatisfaction, conflicts)Emotional problems (e.g. depression, anxiety, worry)Generalized pain (e.g. headache, fatigue, dizziness)Desire for passive treatment, little ability to be proactivePrevious episodes of low back pain that were followed for an extended period of timeRED flagsPatients < 20 years or > 55 years of age experiencing back pain for the  first timePatients experiencing pain significantly  different from previous episodesPain that is constant over time and does not disappear during sleepGeneral malaise and poor general conditionTraumatic injuries, tumors, steroid use or improper use of immunosuppressantNeurological compromiseSpinal deformity Pronounced morning stiffness lasting for longer than 1 hour and/or high erythrocyte sedimentation rateCAUSES Mechanical (e.g. disc degeneration, fractured vertebrae, instability, unknown cause [most cases])Neurogenic (e.g., herniated disc, spinal stenosis, osteophyte damage to nerve root)Non-mechanical spinal conditions (e.g., neoplasm, infections, inflammatory arthritis, Paget’s disease)Referred visceral pain(e.g. Gastrointestinal disease, kidney disease, abdominal aortic aneurism)Other(e.g. Fibromyalgia, somatoform disorder, "faking “pain)SYMPTOMSPainNociceptiveDiffuse painNeuropathicPricking, tingling, pins and needlesElectric shocks of shootingHot or burningNumbnessAltered sensationRadicular painIncontinence of urine and faecesSIGNSDeformity of spineTenderness in affected regionWeakness of the affected limbMuscle wasting in the affected limbAltered sensation in the affected limbINVESTIGATIONS
 
     
@@ -1078,15 +1054,6 @@ CHRONIC KIDNEY DISEASE Chronic Kidney Disease (CKD) refers to kidney damage of  
     
     
         
-        
-
-
-
-
-
-    
-    
-    
 
 These are usually from inadequately treated acute episodes, which include acute osteomyelitis, acute septic arthritis, acute-on-chronic osteomyelitis, and acute-on-chronic septic arthritis. Some may arise from the onset as a chronic infection due to mycobacteria or fungi.The patient is usually not ill-looking unless there is an acute exacerbation.CAUSESAcute bacterial infections of bone and jointsMycobacterium tuberculosis and fungal infectionsInfected orthopaedic implantsIatrogenicSYMPTOMSChronic discharging sinusesPainDeformitySIGNSSwellingTendernessDeformityScarringChronic discharging sinusesHyper-pigmentation of the involved partINVESTIGATIONSFBC, ESRX-rayCT scan TREATMENTTreatment objectivesEradicate infectionRestore functionPrevent and correct deformitiesNon-pharmacological treatmentWound dressingSplintingSurgerySequestrectomyImplant removalPharmacological treatmentA. For acute flare up of infection1st Line Treatment Evidence Rating: [B]Cloxacillin, IV,Adults500 mg 6 hourly for 2-4 weeksChildren5-12 years;  250 mg 6 hourly for 2-4 weeks1-5 years;  125 mg 6 hourly for 2-4 weeks< 1 year; 62.5 mg 6 hourly for 2-4 weeksAndCiprofloxacin, IV, (to be infused over 60 minutes)Adults400 mg 8-12 hourly for 14 daysChildren10 g/kg 12 hourly for 14 days B. For acute flare up of infection in patients with penicillin sensitivity1st Line Treatment Evidence Rating: [B]Clindamycin, IV,Adults300 mg 6 hourly for 7 daysChildren3-6 mg/kg 6 hourly for 7 daysAndCiprofloxacin, IV, (to be infused over 60 minutes)Adults400 mg 8-12 hourly for 14 daysChildren10 g/kg 12 hourly for 14 days C. For acute flare up of infection in patients with sickle cell disease1st Line Treatment Evidence Rating: [B]Cloxacillin, IV,Adults500 mg 6 hourly for 2-4 weeksChildren5-12 years;  250 mg 6 hourly for 2-4 weeks1-5 years;  125 mg 6 hourly for 2-4 weeks< 1 year; 62.5 mg 6 hourly for 2-4 weeksAndCiprofloxacin, IV, (to be infused over 60 minutes)Adults400 mg 8-12 hourly for 14 daysChildren10 mg/kg 12 hourly for 14 days2nd Line Treatment Evidence Rating: [B]Clindamycin, IV,Adults300 mg 6 hourly for 4 weeks or until clinical improvementChildren3-6 mg/kg 6 hourly for 2-4 weeksAndCiprofloxacin, IV, (to be infused over 60 minutes)Adults400 mg 8-12 hourly for 14 daysChildren10 mg/kg 12 hourly for 14 days OrAmoxicillin + Clavulanic Acid, IV,Adults1.2 g 12 hourly,Increased to 1.2 g 8 hourly for 7 days in severe infectionsChildren12-18 years; 600 mg to 1.2 g 12 hourly, Increased to 1.2 g 8 hourly for 7 days in severe infections 3 months-12 years; 30 mg/kg 12 hourly,Increased to 30 mg/kg 8 hourly for 7 days in severe infections 7 days-3 months; 30 mg/kg 8 hourly for 7 daysPreterm and < 7 days; 30 mg/kg 12 hourly for 7 daysAndCiprofloxacin, IV, (to be infused over 60 minutes)Adults400 mg 8-12 hourly for 14 daysChildren10 mg/kg 12 hourly for 14 days D. For pain relief(See section on pain relief in 'Acute Orthopaedic Infections') REFERRAL CRITERIAAll patients should be referred as soon as possible to an orthopaedic specialist. 
 
@@ -1094,18 +1061,10 @@ These are usually from inadequately treated acute episodes, which include acute 
 
 
 
-    
-    
-    
-
 This is a chronic infection of the middle ear with perforation of the tympanic membrane and pus discharging from the ear for more than 2 weeks.CAUSESSecondary bacterial infections:Pseudomonas aeruginosaProteus vulgarisPnuemococciSYMPTOMSChronic ear discharge (otorrhoea)Hearing lossSIGNSPerforation of tympanic membraneConductive hearing lossEar dischargeINVESTIGATIONEar swab for culture and sensitivityTREATMENTTreatment objectivesTo keep the ear dryTo treat any acute exacerbations and complications e.g. mastoiditisNon-pharmacological treatmentRoll a piece of clean absorbent gauze into a wick and insert carefully into the ear. Leave for one minute then remove and replace with a clean wick. Do frequently (at least 4 times a day)If bleeding occurs, drying the ear should be stopped temporarilyNothing should be left in the ear between wickingAvoid swimming or getting the inside of the ear wetRe-assess weekly to ensure that the mother is drying the ear correctlyPharmacological treatmentA. For acute exacerbations(See section on Treatment for 'Acute Otitis Media')B. For topical antibiotic therapy   Evidence Rating: [B]Gentamicin ear drops, 0.3%, 2-3 drops 6-8 hourly and at nightOrCiprofloxacin eye/ear drops, 0.3%, 1 drop 6 hourly dailyREFERRAL CRITERIARefer all chronically discharging ears to the ENT Specialist.
 
 
 
-
-
-    
-    
     
 
 Chronic periodontal infections are due to prolonged bacterial infection around the teeth, which leads to destruction of periodontal and bony supporting tissue of the tooth. This usually leads to pocket formation, gum recession, tooth mobility and or loss.CAUSESBacteriaSYMPTOMSRecurrent painful chewingMobility of teethBleeding gum marginSIGNSGum recessionPocket formationLoss of supporting bony tissueINVESTIGATIONSX-ray of involved teeth and supporting tissuesTREATMENTTreatment objectivesTo restore tooth functionTo treat infectionTo relieve painNon-pharmacological managementDebridementReconstructive surgeryPharmacological treatmentA. Adjunctive Antimicrobial therapyClindamycin, oral,ADULTS300-450 mg 6-8 hourly for 7 daysCHILDREN12-18 years;  150-300 mg 6 hourly for 7 days1 month-11 years; 3-6 mg/kg 6 hourly for 7 daysOrAmoxicillin + Clavulanic Acid, oral,ADULTS1 g 12 hourly for 14-21 daysCHILDREN>12 years;  0ne 500/125 tablet 12 hourly6-12 years; 5 ml of 400/57 suspension 12 hourly1-6 years;  2.5 ml of 400/57 suspension 12 hourly 1 month-1 year;0.25 ml/kg body weight of 125/31 suspension 8 hourly< 1 month; 0.25 ml/kg body weight of 125/31 suspension 8 hourlyA. For pain reliefParacetamol, oral,ADULTS500 mg-1 g 6 hourly as requiredCHILDREN6-12 years; 250-500 mg 6 hourly as required1-5 years;  125-250 mg 6 hourly as required3 months-1 year;  62.5-125 mg 6 hourly as required REFERRAL CRITERIARefer all patients to the dental specialist.
@@ -1295,19 +1254,19 @@ Box 13-4: Notes on glycaemic control of diabetes in pregnancy
 Before planned pregnancy
 0ptimise glycaemic control in known diabetics before pregnancy. During pregnancy
 If diet alone cannot control the blood glucose level consider hypoglycaemic agents: metformin, glibenclamide and insulin
-� Diabetic patients on oral medication who become pregnant can be main- tained on their oral medication if sugar control is satisfactory (fasting glu- cose levels between 4-6 mmol/L and 2-hour postprandial glucose between 4-7 mmol/L; glycated Hb [HbA1c] less than 6.5%)
+� Diabetic patients on oral medication who become pregnant can be main- tained on their oral medication if sugar control is satisfactory (fasting glu- cose levels between 4-6 mmol/L and 2-hour postprandial glucose between 4-7 mmol/L; glycated Hb [HbA1c] less than 6.5%)
 Indications for oral antidiabetic agents use:
-� Gestational Diabetics who fail to achieve satisfactory control with diet and exercise alone (FBS > 6.1mmmol/l)
-� Poor compliance to insulin e.g. poor administration skills
-� Poor glycaemic self monitoring
-� Insulin therapy poses financial burden or is not readily available Absolute Indications for Insulin use
-� Signifiant diabetic related morbidity exists e.g. nephropathy, retininopathy,
+� Gestational Diabetics who fail to achieve satisfactory control with diet and exercise alone (FBS > 6.1mmmol/l)
+� Poor compliance to insulin e.g. poor administration skills
+� Poor glycaemic self monitoring
+� Insulin therapy poses financial burden or is not readily available Absolute Indications for Insulin use
+� Signifiant diabetic related morbidity exists e.g. nephropathy, retininopathy,
 neuropathy
-� Persistently high Haemoglobin A1c
-� Persistent ketonuria
-� Significant obstetric morbidities e.g. foetal macrosomia, polyhydraminios, IUGR
-� During antenatal corticosteroid therapy with expected deterioration of gly- caemic control
-� Poor glycaemic control with oral antidiabetic agents
+� Persistently high Haemoglobin A1c
+� Persistent ketonuria
+� Significant obstetric morbidities e.g. foetal macrosomia, polyhydraminios, IUGR
+� During antenatal corticosteroid therapy with expected deterioration of gly- caemic control
+� Poor glycaemic control with oral antidiabetic agents
 
 
 
@@ -1704,11 +1663,10 @@ Fever is a common complaint, which is usually related to an infection of viral, 
     
 
 Fibromyalgia is a disorder of chronic, widespread pain and tenderness. It typically presents in young women in the third decade or middle-aged women but can affect patients of either sex and at any age.Fibromyalgia is a diagnosis of exclusion and often occurs in patients with other conditions, such as autoimmune inflammatory arthritis and osteoarthritis. The clinical evaluation may reveal objective evidence for other co-morbid illness, such as hypothyroidism, rheumatoid arthritis, systemic lupus erythematosus, polymyalgia rheumatic and other inflammatory or autoimmune disorders.No clear pathophysiological mechanism for fibromyalgia has been established, but evidence suggests that there is an abnormality in central pain processing.Although there is no cure for fibromyalgia, treatment can relieve some of the symptoms. Since symptoms are numerous and vary among patients, treatment programs must be individualized for each patient. Treatment includes patient education, stress reduction, regular exercise and medications. Always combine pharmacologic and non-pharmacologic therapy in the treatment of fibromyalgia. CAUSESUsually unknownSYMPTOMSChronic widespread painUnrefreshing sleep and tirednessAnxietyDepressionMigraine or tension headachesNumbness or tingling of different parts of the bodyAbdominal painConstipation or diarrhoeaIrritable bladderSIGNSTender Points (commonly found around the elbows, shoulders, knees, hips, back of the head, and the sides of the breastbone)Myalgia (more than three months) INVESTIGATIONSFBC,ESRBUE and creatinineUrinalysisThyroid stimulating hormone level25-hydroxy vitamin D levelVitamin B12levelIron studiesMagnesium level TREATMENT Treatment objectivesTo reduce painTo aggressively treat co-morbid depressionTo improve sleepTo reduce fatigueNon-pharmacological treatmentStress managementExerciseBalanced dietSleep therapyPsychologic/ behavioural therapyPharmacological treatmentA. For treatment of mild symptoms1st Line Treatment Evidence Rating: [B]ParacetamolAdults500 mg-1 g 6-8 hourly as requiredChildren6-12years;  250-500 mg 6-8 hourly as required1-5years; 125-250 mg 6-8 hourly as required3months-1year; 62.5 mg-125 mg 6-8 hourly as requiredOrDiclofenac, oral,Adults50 mg 8 hourly or 100 mg 12 hourly as requiredChildren12years;  50 mg 12 hourly as required<12years;  not recommendedOrDiclofenac, rectal,Adults100 mg 12 hourly as requiredChildren12years;  75-100 mg daily as required<12years;  not recommended2ndLine Treatment Evidence Rating: [B]Tramadol, oral, 25 mg stat.     ThenIncrease by 25-50 mg daily up to 50-100 mg 6 hourly as necessary; (max. 400 mg per day)AndAmitriptyline, oral, 10 mg nocteThenGradually increase to 75 mg daily as requiredB. For treatment of chronic or severe symptoms with anxiety(See 'treatment for mild symptoms' as above)And1stLine Treatment Evidence Rating: [B]Clonazepam, oral,Adults250 microgram 12 hourly (max. 1 mg 12 hourly)ChildrenNot recommended for this conditionC. For treatment of chronic or severe symptoms with depression                   (See 'treatment for mild symptoms' as above)   And 1stLine Treatment Evidence Rating: [B]Fluoxetine, oral,Adults20 mg daily (max. 80 mg per day)Children8-18years;  10 mg daily (max. 20 mg per day)<8years;  not recommendedOrAmitriptyline, oral,Adults25-50 mg once daily (early evening),ThenIncrease by 25 mg every 3-5 days up to a max. of 150 mgChildren16years;  5-15 mg 12 hourly<16years;  not recommended OrDuloxetine, oral,Adults20-30 mg 12-24 hourly (max. 60 mg per day)Children7-17years;  20-30 mg daily (max. 60 mg per day)D. For treatment of chronic or severe symptoms with myalgia(See 'treatment for mild symptoms' as above)And1stLine Treatment Evidence Rating: [B]Tizanidine, oral,Adults2 mg 8 hourlyMay increase to 4 mg 8 hourly after 7 daysChildrenNot recommendedOrCyclobenzaprine, oral,Adults5-10 mg 8 hourly as requiredChildren5 mg 8 hourly as requiredE. For treatment of chronic or severe symptoms with neuropathic pain(See 'treatment for mild symptoms' as above)And1stLine TreatmentEvidence Rating: [B]Pregabalin, oral,Adults50-75 mg 12 hourly till resolution (max. 300 mg per day)ChildrenNot recommendedOrGabapentin, oral,Adults300 mg dailyThenIncrease by 300 mg daily to a max. Of 600 mg 8 hourlyChildrenNot recommendedF. For treatment of chronic or severe symptoms with migraine(See 'treatment for mild symptoms' as above)AndClonidine, oral,Adults50-75 microgram 12 hourlyChildrenNot recommendedREFERRAL CRITERIARefer patients not responding to treatment to the appropriate specialist. 
-     FLOWCHART
+     
     
     
-    
-    Fig 22-2: Flowchart: Fibromyalgia Tender Points
+   
 
 
 
@@ -1862,11 +1820,6 @@ This is a condition in which the heart is unable to produce adequate cardiac out
 
 CAUSES • Systemic arterial hypertension • Rheumatic heart disease • Cardiomyopathies • Severe anaemia • Ischaemic heart disease • Thyrotoxicosis • Congenital heart disease • Pulmonary arterial hypertension • Cardiac arrhythmiaSYMPTOMSLeft Heart Failure • BreathlessnessOn exertionOn lying flat (orthopnoea)At night (paroxysmal nocturnal dyspnoea) • Easy fatiguability • Cough with frothy blood-stained sputum • WheezingRight Heart Failure • Swelling of the feet and lower extremities (may be absent in children below 6 months) • Abdominal swelling • Right hypochondrial pain from an enlarging liverSIGNSLeft Heart Failure • Tachypnoea • Tachycardia • Basal crepitations • Gallop rhythm • Displaced apex beat • Cardiac murmur • RhonchiRight Heart Failure • Tachycardia • Pitting pedal oedema (may be absent in children below 6 months) • Ascites • Tender, smooth, soft hepatomegaly • Raised jugular venous pressure • Gallop rhythm • Cardiac murmurIn children • Failure to thrive • Difficulty in feedingINVESTIGATIONS • FBC • ECG • Chest X-ray • Blood urea, electrolytes and creatinine and eGFR (estimated glomerular filtration rate) • Liver function test • Fasting blood sugar • Fasting lipids • Echocardiography • Thyroid function tests • Cardiac enzymes, if myocardial infarction is suspected • Coronary angiographyTREATMENTTreatment objectives • To relieve symptoms and improve quality of life • To treat the precipitating cause • To treat complications • To prevent recurrence of symptoms • To reduce need for hospital re-admissions • To reduce mortalityNon-pharmacological treatmentReduce salt intakeReduce weight in overweight and obese individualsAvoid alcoholAvoid or quit smokingEncourage moderate exerciseBed rest (only in acute heart failure or exacerbations of chronic heart failure)Prop up in bedPharmacological treatmentA.  Acute heart failure - initial treatment1st Line Treatment Evidence Rating: [A]Oxygen, by nasal cannula or face mask if there is hypoxaemia (SpO2 < 90%)AndFurosemide, IV,Adults40-80 mg, repeat after 30 minutes if necessaryChildren12-18 years;  20-40 mg repeated 8 hourly as necessary1 month-12 years; 0.5-1 mg/kg repeated 8 hourly (max 4 mg/ kg/dose)B. Acute heart failure - maintenance treatment after stabilisationFurosemide, IV,Adults40-80 mg 12 hourlyChildren12-18 years; 20-40 mg repeated 8 hourly as necessary1 month-12years; 0.5-1 mg/kg repeated 8 hourly (max 4 mg/ kg/dose)C. Acute heart failure - patient not improving after initial treatmentFurosemide (Frusemide), IV,Adults40-80 mg 12 hourlyChildren12-18 years; 20-40 mg repeated 8 hourly as necessary1 month-12years;  0.5-1 mg/kg repeated 8 hourly (max 4 mg/ kg/dose)And • Morphine, IV,Adults5-10 mg slowlyChildrenNot recommended for this condition as safety is not well establishedAndMetoclopramide, IV,Adults10 mg to prevent vomitingChildrenNot requiredD. Acute heart failure - patient improving after initial treatmentFurosemide, oral,Adults40-80 mg 12 hourlyChildren0.5-2 mg/kg 8-12 hourlyE. Acute heart failure - patient with fast atrial fibrillation or in sinus rhythm with systolic dysfunctionEvidence Rating: [C]Digoxin, oral,Elderly125 micrograms 12 hourly for 24-48 hoursAdults250 micrograms 12 hourly for 24-48 hoursThen250 micrograms dailyThen125 micrograms dailyChildren > 10 years0.5-1 mg in 3 divided doses over 24 hoursThen62.5-250 microgram dailyChildren 2-10 years20-30 microgram/kg in 3 divided doses over 24 hoursThen8-10 microgram/kg dailyChildren < 2 years30-40 microgram/kg in 3 divided doses over 24 hoursThen10-12 microgram /kg dailyNeonates (full term)20 microgram/kg in 3 divided doses in 24 hoursThen8-10 microgram/kg dailyNeonates ( < 1.5 kg)25 microgram/kg in 3 divided doses in 24 hours Premature15 microgram/kg dailyThen5 microgram/kg dailyF. Acute heart failure - patients in cardiogenic shock (adult systolic blood pressure <85mmHg) with hypotension and or hypoperfusionDobutamine, IV infusion,Adults2.5-10 micrograms/kg per minuteG. Prophylactic anticoagulation against venous thrombosisEnoxaparin, SC,Adults1.5 mg/kg (150 units/kg) dailyChildren2 months-18 years;   1 mg/kg 12 hourly1-2 months;   1.5 mg/kg 12 hourlyNeonates;  1.5-2 mg/kg 12 hourly • Identify and treat (if possible) precipitating causes such as hypertension, myocardial infarction, anaemia or thyrotoxicosisH. Symptomatic Heart Failure1st Line Treatment • Furosemide, oral, Evidence Rating: [C] Adults40-80 mg dailyChildren1-2 mg/kg dailyAnd • Lisinopril, oral,(only when systolic blood pressure > 100 mmHg) Evidence Rating: [A]Adults2.5-20 mg dailyOr • Ramipril, oral,(only when systolic blood pressure > 100 mmHg ) Evidence Rating: [A]Adults2.5-10 mg dailyAnd • Carvedilol, oral, Evidence Rating: [A]Adults3.125-12.5 mg 12 hourly (maximum 25mg 12 hourly)OrBisoprolol, oral, Evidence Rating: [A] Adults1.25-10 mg dailyOrMetoprolol, oral, Evidence Rating: [A]Adults25-100 mg dailyI. Patients not tolerating ACE inhibitors (replace Lisinopril or Ramipril with the following in the 1st line treatment above)Losartan, oral, Evidence Rating: [A] Adults25-50 mg dailyOrCandesartan, oral, Evidence Rating: [A] Adults4-16 mg dailyJ.  Patients with fast atrial fibrillation or in sinus rhythm with systolic dysfunction;AddDigoxin, oral, Evidence Rating: [B] Elderly125 micrograms 12 hourly for 24-48 hours,Then125 micrograms 24 hourlyAdults250 micrograms 12 hourly for 24-48 hours,Then250 micrograms once dailyChildren5 micrograms/kg 12 hourlyK. Symptomatic patients, inspite of the above medications And •Spironolactone, oral, Evidence Rating: [A] Adults25-50 mg dailyREFERRALAll patients must be referred to a specialist when clinically stable for the identification and treatment of the underlying cause of the heart failure and for long-term maintenance therapy.
 
-     FLOWCHART
-
-
-
-Fig 7-5: Flowchart: Heart Failure
 
 
 
@@ -2063,37 +2016,17 @@ REFERRAL CRITERIA
 Refer severe cases with dehydration and/or shock and metabolic disturbances to a hospital for intravenous fluid replacement and antiemetic therapy.
 
 
-
-
-
-    
-    
     
 
 Hypertension or 'high blood pressure' carries an increased risk of early death from stroke, heart attack, heart failure and kidney failure if it is not detected early and properly controlled. Owing to this, the focus must be on when to initiate treatment, rather than how hypertension should be defined.Since there are often no specific symptoms associated with hypertension, there is the need for regular blood pressure (BP) screening in the adult population for early detection.In the general adult population, treatment must be initiated at a  BP of 140/90 mmHg or higher for individuals below 60 years of age, and 150/90 mmHg or higher in those above 60 years. For individuals with diabetes mellitus or non-diabetics with Chronic Kidney Disease (CKD), treatment for hypertension must be initiated at a BP of 140/90 mmHg, irrespective of age.In the majority of patients with hypertension, no specific underlying cause is identified (primary hypertension). In these individuals, increasing age, family history, excess body weight, lack of physical activity and excessive alcohol intake may be possible predisposing factors. In about 10% of cases of hypertension, there may be an underlying kidney disease, endocrine disorder, renal artery stenosis or coarctation of the aorta (secondary hypertension).Once a diagnosis of hypertension is made, the individual should     be evaluated to exclude secondary causes and to identify other existing cardiovascular risk factors e.g. diabetes, dyslipidaemia, hyperuricaemia, etc. CAUSES • Primary hypertension • Secondary hypertension•  Kidney related-CKD, polycystic kidney disease•  Endocrine - phaeochromocytoma, Cushing's syndrome, Conn's syndrome, hypothyroidism, hyperthyroidism, acromegaly•     Vascular - renal artery stenosis, coarctation of the aortaSYMPTOMS • Usually none • Occasionally,•  Headaches•  Palpitations•  Dizziness•  Easy fatiguabilitySIGNS • Blood pressure 2" 140/90 mmHg • Displaced apex beat • Signs pointing to a specific cause for secondary hypertensionINVESTIGATIONS • FBC • Urinalysis • Blood urea, electrolytes and creatinine • Blood glucose • Serum lipids • Serum uric acid • Chest X-ray • 12-lead ECG • Ultrasound scan of kidneys and adrenals (in suspected secondary hypertension) • EchocardiogramTREATMENTTreatment objectives • To reduce blood pressure levels to recommended targets:•  < 140/90mmHg for age below 60 years, diabetes, CKD•  < 150/90 mmHg for age above 60 years • To manage co-morbid conditions e.g. obesity, diabetes, lipids etc. • To prevent cardiovascular, cerebrovascular and renal complications • To promote therapeutic lifestyle changes e.g. smoking cessation, regular physical activity, reduction in alchohol intake • To identify and manage secondary hypertension appropriatelyNon-pharmacological treatment • Reduce salt intake • Reduce animal fat intake • Ensure regular fruit and vegetable intake • Weight reduction in obese and overweight individuals • Regular exercise e.g. brisk walking for 30 minutes 3 times a week • Reduction in alcohol consumption • Avoid or quit smoking Pharmacological treatmentA. Treatment of hypertension 1st Line Treatment Evidence Rating: [A]Thiazide Diuretics: • Bendroflumethiazide, oral, 2.5 mg dailyOr • Hydrochlorothiazide, oral, 12.5 mg-25 mg dailyAnd/OrCalcium Channel Blockers:Amlodipine, oral, 5-10 mg dailyOr • Nifedipine retard, oral, 10-40 mg 12 hourlyAnd/OrAngiotensin-converting enzyme (ACE) inhibitors • Lisinopril, oral, 5-40 mg dailyOr • Ramipril, oral, 2.5-10 mg dailyOrAngiotensin receptor blockersLosartan, oral, 25-100 mg dailyOr     • Candesartan, oral, 4-32 mg dailyOrValsartan, oral, 80-160 mg dailyAnd/OrBeta-blockers: • Atenolol, oral, 50 -100 mg dailyOr • Bisoprolol, oral, 5-20 mg dailyOr • Metoprolol, oral, 50-200 mg 12 hourlyOrCarvedilol, oral, 12.5-50 mg dailyOr • Labetalol, oral, 100-400 mg 12 hourly2nd Line Treatment Evidence Rating: [C] Centrally acting agents • Methyldopa, oral, 250 mg-1g 8-12 hourlyAnd/OrVasodilators • Hydralazine, oral, 25-50 mg 12 hourlyAnd/OrAlpha-blockers • Prazosin, oral, 0.5 mg 8-12hourly and increasing gradually to a max. dose of 20 mgAnd/OrAldosterone antagonists• Spironolactone, oral, 25-50 mg daily REFERRAL CRITERIARefer the following categories of hypertensive patients to anappropriate specialist: • Those not achieving the target blood pressure (BP) level after several months of treatment • Those on three or more anti-hypertensive drugs, yet have poor BPcontrol • Those with worsening of BP over a few weeks or months • Those with plasma creatinine levels above the upper limit of normal • Those with diabetes mellitus • Those with multiple risk factors (diabetes, dyslipidaemia, obesity, family history of heart disease) • Those not on diuretics but have persistently low potassium onrepeated blood tests • All children, young adults and pregnant women with elevated BP
-     FLOWCHART
+     
     
-    
-    
-    Fig 7-8: Flowchart: Hypertension
 
-
-
-
-
-    
-    
     
 
 Hypertension in children is defined as an average systolic and/or diastolic blood pressure that is 2" 95th percentile for gender, age, and height on 3 or more separate occasions taken in the right arm (in view  of possibility of coarctation of aorta). An appropriate cuff size that covers two thirds (½) of the length of the arm (between shoulder and elbow) and encircling the whole arm, should be used.In general, a blood pressure of > 110/70 mmHg in children aged 2-5 years and > 115/76mmHg in those aged 6-12 years and more than 128/82 mmHg in adolescents is considered abnormal and would require a referral to, and evaluation by a paediatrician.Most adolescent and childhood hypertension, especially in infants and younger children, is due to secondary causes (See section on 'Hypertension in Adults'). Adolescents, however, may have early onset primary hypertension.CAUSES • Renal e.g. chronic pyelonephritis, hydronephrosis • Vascular e.g. coarctation of aorta, renal artery stenosis • Endocrine e.g. phaeochromocytoma, Cushing's syndrome, adrenaldisorders • Obesity • Primary hypertensionSYMPTOMS • Chest pain • Headaches • Dyspnoea on exertion • Excessive sweating • Leg swelling • Palpitations • Haematuria • Unconsciousness (hypertensive encephalopathy)SIGNS • BP >110/70 mmHg in children aged 2-5 years• >115/76 mmHg in children aged 6-12 years• >128/82 mmHg in adolescents • Signs pointing to a specific cause for secondary hypertensionINVESTIGATIONS(See section on 'Hypertension in Adults')TREATMENTTreatment objectivesTo reduce blood pressure (BP) to a target of < 95th percentile for age, gender and height in the absence of end organ-damage (to < 90th percentile if end organ damage present)To prevent complicationsTo manage underlying secondary causeTo encourage weight reduction in obese and overweight childrenNon-pharmacological treatmentTherapeutic lifestyle changesweight controlregular exerciselow fat intakelow sodium dietregular fruit and vegetable intakePharmacological treatmentEvidence Rating: [A]Angiotensin-converting enzyme (ACE) inhibitorsEnalapril, oral,Children12-18 years; initially 2.5 mg daily (increased to max. 10- 20 mg daily in 1-2 divided doses)1 month-12 years;  initially 100 micrograms per kg daily (in- creased to max. 1 mg/kg daily in 1-2 divided doses)Neonate10 microgram/kg daily (increased to max. 500 microgram/kg daily in 1-3 divided doses)DiureticsBendroflumethiazide, oral,Children12-18 years;   2.5 mg daily2-12 years;  50-100 microgram/kg daily1 month-2 years;   50-100 microgram/kg dailyBeta blockersPropranolol, oral,Children12-18 years;  80-160 mg 12 hourly1 month-12 years;  250 microgram-1 mg/kg 8 hourlyNeonate;   250 microgram/kg 8 hourly 0rAtenolol, oral,Children0.5-1 mg/kg daily (max. 2 mg/kg daily)Calcium channel blockersNifedipine, oral,Children12-18 years;  5-20 mg 8 hourly1 month-12years; 200-300 microgram/kg 8 hourly (max. 100 mg daily)OrAmlodipine, oral,Children12-18 years;5-10 mg daily1 month-12years; 100-400 microgram/kg daily (max. 10 mg daily)VasodilatorsHydralazine, oral,Children12-18 years;  25 mg 12 hourly increased to usual max. 50- 100 mg 12 hourly1 month-12 years; 250-500 microgram/kg 8-12 hourly in- creased as necessary to max. 7.5 mg/kg daily (not exceeding200 mg) Neonate;  250-500 microgram/kg 8-12 hourly increased as necessary to max. 2-3 mg/kg every 8 hoursIV, 250-500 microgram/kg diluted in 10 ml normal saline given over 20 minutes, then 100-200 microgram/kg 4-6 hourly (max 3 mg/kgin 24 hours)Angiotensin-receptor blockers •Losartan, oral,ChildrenInitial dose;  0.7 mg /kg daily (max. 50 mg) Maintenance dose;  1.4 mg /kg daily (max. 100 mg)REFERRAL CRITERIARefer all cases of hypertension in children to a specialist forinvestigation and further treatment.
 
 
-
-
-
-    
-    
-    
 
 HYPERTENSION IN PREGNANCY
 Hypertension in pregnancy denotes a systolic blood pressure of 140 mmHg or higher and/or diastolic pressure of 90 mmHg or higher on 2 occasions at least 5 minutes apart using an appropriate-sized cuff especially in obese patients. It is severe when systolic blood pressure is 160 mmHg or higher and diastolic blood pressure is 110 mmHg or higher. This includes women whose hypertension was diagnosed prior to pregnancy as well as during pregnancy. Known hypertensives on ACE inhibitors, ARBs and alpha-blockers should be switched to medications considered safe during pregnancy.
@@ -2237,11 +2170,10 @@ Insomnia is defined as a subjective report of difficulty with sleep initiation, 
     
 
 42. Ischaemic Heart DiseaseIschaemic heart disease is a condition whereby there is reduced blood supply to the heart muscle. It comprises of stable angina pectoris and the acute coronary syndromes. STABLE ANGINA PECTORISStable angina pectoris is pain or discomfort that occurs in the front of the chest, and may radiate to the neck, shoulders, jaw or arms. The chest pain is typically induced by exertion or emotional stress and relieved by rest or glyceryl trinitrate. Individuals who experience stable angina pectoris are at a high risk of developing acute coronary syndromes or a heart attack. Risk factors include diabetes mellitus, hypertension, cigarette smoking, plasma lipid abnormalities, obesity, family history of heart disease and persistently elevated markers of inflammation such as C-reactive protein.Risk factors for this condition include obesity, diabetes mellitus, hypertension, smoking, hyperlipidaemia.CAUSESAtherosclerosis with narrowing of the coronary blood vesselsSpasms of the coronary arteries SYMPTOMSCentral or precordial chest painMay radiate into the left arm, neck or jawRelieved by restRelieved by glyceryl trinitrate SIGNSNo typical signs INVESTIGATIONS12-lead ECGCardiac enzymes: creatinine kinase-MB (CK-MB) and troponinsBlood glucoseBlood lipid profileFBCChest X-rayStress ECGEchocardiographyCoronary angiography TREATMENT Treatment objectivesTo minimise symptomsTo prevent progression to acute coronary syndromesTo identify and manage modifiable risk factorsTo improve quality of life Non-pharmacological treatment      Educate and reassure patien      Healthy lifestyle modifications:DietExerciseWeight managementReduction in alcohol consumptionAvoid or quit smoking Pharmacological treatmentA.  Treating the acute chest painEvidence Rating: [A]•  Glyceryl trinitrate, sublingual, 500 microgram stat. then as requiredAnd•  Aspirin, oral, 300 mg stat. then 75 mg dailyOr•  Clopidogrel, oral, 300 mg stat. then 75 mg dailyAnd•  Atenolol, oral, 50-100 mg dailyOr•  Bisoprolol, oral, 5-10 mg dailyOr•  Metoprolol, oral, 50-100 mg 8-12 hourly Note 7-1Avoid betablockers in bronchial asthma, bradycardia, and hypotension; avoid atenolol in heart failure.Or•  Verapamil, oral, 80-120 mg 8 hourly Note 7-2Avoid in bradycardia, hypotension and in patients already on beta-blockers. Optimise or initiate treatment for hypertension Optimise or initiate treatment for diabetes mellitus Use statins to treat abnormal blood lipids to target levels B.  If beta blockers or verapamil are contraindicated • Isosorbide dinitrate, oral, 10 mg 8-12 hourly REFERRAL CRITERIA Refer the following patients • Those with no significant improvement in symptoms after the initial treatment above • Those with worsening risk factors 
-     FLOWCHART
+   
 
 
 
-Fig 7-1: Flowchart: Angina Pectoris
     ACUTE CORONARY SYNDROMEAcute Coronary Syndrome (ACS) is a term that describes symptoms resulting from severe acute myocardial ischaemia. The ischaemia may, or may not, lead to myocardial infarction (heart attack). ACS is classified as ST segment elevation on an electrocardiogram (ST-segment elevation myocardial infarction - STEMI) or a non-ST-segment elevation myocardial infarction (NSTEMI) and unstable angina (an ACS without elevation of cardiac enzymes). The risk factors for ACS are identical to those for, and include previous episodes of, stable angina pectoris.Risk factors for this condition include obesity, diabetes mellitus, hypertension, smoking and hyperlipidaemia.CAUSES•     Atherosclerosis or obstruction of the coronary blood vessels leading to reduction in blood supply to the heart muscleSYMPTOMSChest painSudden onsetVarying degree but often severe and described as tightness, heaviness or constrictive in nature.Persisting for more than 30 minutesNot relieved by rest or glyceryl trinitrateMay radiate to the left arm, the neck or jawNauseaVomitingShortness of breath or fatigue (this may be the only presentation in diabetics and the elderly) Loss of consciousness SIGNSRestlessness and apprehensionExcessive sweatingPeripheral or central cyanosisPulse may be thready, fast, irregular, slow or normalBlood pressure may be high, low or unrecordable (following extensive damage to heart muscle)Bilateral crepitations in the chest (with left ventricular failure)Presence of a third or fourth heart sound (suggests heart failure)Confusion in the elderly INVESTIGATIONSStandard 12 lead ECGCardiac enzymes: CK-MB, troponins T and IMyoglobinSerum lipid profileChest X-rayRandom blood glucoseFBC, ESRSerum uric acidBlood urea, electrolytes and creatinineC-reactive proteinEchocardiographyCoronary angiography TREATMENTTreatment objectivesTo relieve distress and painTo limit infarct sizeTo prevent and treat complicationsTo reverse cardiac remodellingTo prevent re-infarctionTo identify and manage modifiable risk factorsTo improve quality of life Non-pharmacological treatmentReassure patient and encourage bed rest in the first 48 hoursEncourage cessation of smoking Ensure weight reduction (in overweight and obese individuals) in the long term Pharmacological treatmentA.  Initial treatment on admissionEvidence Rating: [A]•  Oxygen, intranasal, by face mask or nasal cannulaAnd•  Aspirin, oral (chewable), 300 mg stat.And•  Clopidogrel, oral, 300 mg stat.And•  Glyceryl trinitrate, sublingual, 500 microgram stat.And•  Morphine, IV, 5-10 mg stat.And•  Metoclopramide, IV, 10 mg stat. (to prevent vomiting induced bymorphine)B.  Maintenance treatment following immediately after initial treatment•  Aspirin, oral, 75-300 mg daily indefinitelyAnd•  Clopidogrel, oral, 75 mg daily (patients who receive revascularisation therapy will require treatment for up to 12 months)C.  Anticoagulation• Enoxaparin, SC, 1 mg/kg (100 units/kg) 12 hourlyD.  Prevention of cardiac arrhythmias and reduction of myocardial workload•  Atenolol, oral, 25-100 mg daily (avoid only if beta-blockers are contraindicated)Or•  Bisoprolol, oral, 5-20 mg dailyOr•  Metoprolol, oral, 50-100 mg 8-12 hourlyAnd•  Lisinopril, oral, 2.5-20 mg dailyOr•  Losartan, oral, 25-50 mg dailyOr•  Candesartan, oral, 4-16 mg dailyAndIn patients with STEMI:Fibrinolytic agents may be given as reperfusion therapy in patients presenting with STEMI under specialist care.Manage acute complications such as pulmonary oedema, cardiogenic shock and cardiac arrhythmiasManage hyperglycaemia with insulin. Change diabetic patients previously on oral hypoglycaemic agents to insulin E.  Long-term treatment (secondary prevention)•  Aspirin, oral, 75-150 mg daily indefinitelyAnd•  Atenolol, oral, 25-100 mg daily (avoid only if beta-blockers are contraindicated)Or•  Bisoprolol, oral, 5-20 mg dailyOr•  Metoprolol, oral, 50-100 mg 8-12 hourlyF.  To prevent cardiac remodelling and improve survival•  Lisinopril, oral, 2.5-20 mg dailyOr•  Losartan, oral, 25-50 mg dailyOr•  Candesartan, oral, 4-16 mg daily Note 7-3Avoid ACE inhibitors and Angiotensin receptor blockers in patients with BP < 100 mmHg G. To stabilise the clot and reduce blood cholesterol levels•  Atorvastatin, oral, 20-40 mg dailyOr•  Rosuvastatin, oral, 10-20 mg dailyOr•  Simvastatin, oral, 40-80 mg daily. Statins are indicated irrespective of lipid levelsH.  To improve coronary dilatation and reduce myocardial workload•  Isosorbide dinitrate, oral, 10 mg 8-12 hourlyI. Control of hypertension and hyperglycaemia, if present(See appropriate sections) REFERRAL CRITERIAAll patients with suspected ACS require an urgent ECG. If ECG is not available or cannot be interpreted, refer immediately to a higher facility.Patients with confirmed STEMI in any facility should be referred urgently to a Physician Specialist or Cardiologist for reperfusion therapy (after an initial oral dose of 300 mg of aspirin).Other patients with N-STEMI and unstable angina should be referred to a physician specialist or cardiologist after the initial management above.
 
 
@@ -2577,7 +2509,7 @@ Neonatal conjunctivitis or ophthalmia neonatorum is an acute purulent conjunctiv
 
 Neonatal hypoglycaemia refers to a random blood glucose level below 2.6 mmol/L in the newborn.As the clinical signs may be variable, or indeed absent, for small or sick babies or infants of diabetic mothers the random blood glucose level should be checked every three hours for the first 24 hours until it stays above 3.5 mmol/L for a further 24 hours.Neonatal hypoglycaemia may result in death if not promptly treated and should therefore be managed as soon as suspected. Successful treatment results in prompt response. To prevent hypoglycaemia, breastfeeding should be encouraged soon after birth. If the neonate is unable to suck, a nasogastric tube may be passed and expressed breast milk given. If enteral feeds are contraindicated, intravenous fluids should be started immediately.CAUSESPrematurityIntra uterine growth retardationBaby born to a diabetic motherInfectionAsphyxiaSYMPTOMSIrritability and restlessnessTremorsSweatingSeizuresLethargySIGNSSweatingTremorTachycardiaSeizuresUnconsciousnessINVESTIGATIONSRandom blood glucose (RBSUsing bed-side glucose meterCheck within 2 hours after birth and at regular 3 hourly intervals in infants at riskOther investigations depend on the suspected underlying causeTREATMENTTreatment objectivesTo maintain blood glucose levels within normal limitsTo identify and treat underlying cause of hypoglycaemiaTo prevent complications e.g. brain damageNon-pharmacological treatmentBlood glucose monitoring ½ to 2 hourly in hypoglycaemic infants until normal levels attainedPharmacological treatmentEvidence Rating: [A]A. Initial managementDextrose 10%, IV, 4 ml/kg as a bolusB. Maintenance treatment following immediately after initial managementSaline 0.18% in Dextrose 10%, 60-150 ml/kg/day depending on the age of the newborn (See table below).
 
-Table 6-1: Maintenance fluid requirement
+
 
     
     
@@ -2773,11 +2705,11 @@ PneumoniaPneumonia is an infection of the lung tissue caused by various bacteria
         
         
         Severity score may be based on the following, assigning one point to each of the following factors (maximum 5 points);
-        � Confusion, restlessness, or excessive drowsiness
-        � Blood Urea Nitrogen ( > 7 mmol/L)
-        � Respiratory rate ( 2" 30 per minute in adults, and 2" 50 in children)
-        � Low BP (Systolic BP < 90 and/or diastolic BP < 60 mmHg)
-        � Patients at the extremes of age, (< 5yr or 2" 65yr)
+        � Confusion, restlessness, or excessive drowsiness
+        � Blood Urea Nitrogen ( > 7 mmol/L)
+        � Respiratory rate ( 2" 30 per minute in adults, and 2" 50 in children)
+        � Low BP (Systolic BP < 90 and/or diastolic BP < 60 mmHg)
+        � Patients at the extremes of age, (< 5yr or 2" 65yr)
         
         
         
@@ -2805,10 +2737,10 @@ PneumoniaPneumonia is an infection of the lung tissue caused by various bacteria
         
         
         Additional factors
-        � Coexisting diseases such as chronic lung disease, heart failure or renal disease
-        � Extensive disease, multiple lobes involved
-        � Low oxygen saturation Sp02 , < 92% on room air
-        � Severe tachycardia
+        � Coexisting diseases such as chronic lung disease, heart failure or renal disease
+        � Extensive disease, multiple lobes involved
+        � Low oxygen saturation Sp02 , < 92% on room air
+        � Severe tachycardia
         
         
         
@@ -3029,7 +2961,7 @@ Fig 13-5: Flowchart: Post partum haemorrhage
     
 
 POST-PARTUM PYREXIA
-Post-partum pyrexia refers to body temperature of 38�C or more on 2 or more occasions during the first 10 days of the puerperium excluding the first day. Risk Factors include prolonged labour, prolonged premature rupture of membranes, retained placental tissue, instrumental deliveries and birth canal injuries.
+Post-partum pyrexia refers to body temperature of 38�C or more on 2 or more occasions during the first 10 days of the puerperium excluding the first day. Risk Factors include prolonged labour, prolonged premature rupture of membranes, retained placental tissue, instrumental deliveries and birth canal injuries.
 CAUSES
 
 Malaria
@@ -3352,7 +3284,7 @@ Non-pharmacological treatment
 
 Bed rest
 
-� Pharmacological treatment
+� Pharmacological treatment
 
 Infection Prevention 1st Line Treatment Evidence Rating: [B]
 
@@ -3375,7 +3307,7 @@ And
 
 Metronidazole, oral, 400 mg 8 hourly for 7 days
 
-� Foetal lung maturation - for babies 28-34 weeks
+� Foetal lung maturation - for babies 28-34 weeks
 Evidence Rating: [A]
 
 Betamethasone, oral, 6-7 mg every 24 hours (2 doses)
@@ -4120,14 +4052,14 @@ Stridor is an emergency condition. It has a characteristic noise in the inspirat
     
 
 A stroke can be defined as a sudden global or focal neurological deficit resulting from spontaneous haemorrhage or infarction of the central nervous system, with objective evidence of an infarction or haemorrhage, irrespective of the duration of clinical symptoms. A CT or MRI scan is required to make the diagnosis and exclude other intracranial lesions that could present similarly.A Transient Ischaemic Attack (TIA), on the other hand, is a transient episode of neurologic dysfunction caused by focal brain, spinal cord, or retinal ischemia. There is no objective evidence of acute infarction in the affected region of brain or retina.In adults, hypertension, diabetes, dyslipidaemia, atrial fibrillation and smoking, increase the risk for strokes. In children sickle cell disease and cyanotic heart disease are important risk factors for strokes.Patients should ideally have multidisciplinary care.CAUSES • Cerebral infarction:Thrombosis of a cerebral vesselEmbolism from a distant site (e.g. atrial fibrillation) • Intracerebral haemorrhage • Subarachnoid haemorrhageSYMPTOMS • Weakness of one side of the body including the face • Inability to rise up from a sitting or lying position • Sudden fall/collapse • Loss of speech • Loss of vision • Severe headache and/or neck pain (subarachnoid haemorrhage) • Unconsciousness in some patients • SeizuresSIGNS • Paralysis of a limb • Facial paralysis (lower half) • Initial flaccidity of limbs, but later spasticity and exaggerated reflexes • Hemianopia (loss of one-half of visual field) • Hemi-anaesthesia (loss of sensation of one-half of body) • Extensor plantar response • Dysarthria/dysphasia (alteration of speech) • Neck stiffness (in subarachnoid haemorrhage)INVESTIGATIONS • FBC, ESR • Blood glucose • Serum lipid profile • Blood urea, electrolytes and creatinine • Uric acid • ECG • CT scan/MRI of the head • Chest X-ray TREATMENT Treatment objectives • To limit the area of brain damage • To protect patients from the dangers of unconsciousness and immobility • To prevent aspiration • To treat the underlying cause if possible • To identify and manage modifiable risk factors (hypertension, high cholesterol, diabetes mellitus etc.) • To institute measures to improve functional recovery • To support and rehabilitate patients who survive with residual disability • To minimise adverse effects of drug therapyNon-pharmacological treatmentAdmit and monitor patient's vital signs and neurological signs frequently (4 hourly)Establish adequate airway in unconscious patientsSwallowing test in an upright position (use 10-15ml of water)Insert nasogastric tube as early as possible for feeding and medications in unconscious patients or those with swallowing difficulties to prevent aspirationNurse in the lateral position with suctioning where necessaryElevate head of bed to 30 degrees to reduce intracranial pressurePrevent pressure sores by regular turning (every 2 hours) in bedMaintain adequate hydrationKeep patient clean and dry by frequent use of bedpan/urine pot, diapers, condom catheter as required. Urethral catheter should be used only if absolutely necessaryStart physiotherapy as soon as practicablePharmacological treatmentA. Infarctive Strokes and TIAs 1st Line Treatment Evidence Rating: [B]Aspirin, oral,Adults300 mg stat.Then75 mg dailyChildren16 years;  same as adult dose< 16 years;  not recommendedAndAtorvastatin, oral,Adults40-80 mg dailyChildrenNot recommendedOrRosuvastatin, oral,Adults20-40 mg dailyChildrenNot recommendedB. Haemorrhagic Stroke with evidence of cerebral oedema present1st Line Treatment Evidence Rating: [B]Mannitol, IV,Adults0.5-1 g/kg 6 hourly (up to 2 g/kg per dose)Children1 month-18 years; 0.5-1.5 g/kg Or 2.5-7.5 ml/kg of 20% solution(See treatment flowchart for acute medical management of stroke below)C. Control of co-morbidities (e.g. hypertension, diabetes etc.)(See appropriate sections)REFERRAL CRITERIAPatients with worsening symptoms and signs should be urgently referred for specialist evaluation and care. All stable patients with neurological deficits should be referred to a speech therapist, occupational therapist or physiotherapist as appropriate.
-     FLOWCHART
+    
     
     
     
     
         
         
-    Table 7-3: Flowchart: Stroke
+    
 
 
 
