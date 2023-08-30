@@ -1,0 +1,39 @@
+[{
+    "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+    "input": " ",
+    "output": {
+      "CAUSES": "Severe Malaria",
+      "Investigations": [
+        "Rapid diagnostic test",
+        "Blood film for malaria parasites - thick and thin blood films",
+        "FBC",
+        "Sickling test",
+        "Random blood glucose",
+        "BUE and creatinine",
+        "Blood grouping and cross-matching",
+        "Lumbar puncture in convulsing or comatose patients"
+      ],
+      "Treatment": {
+        "Objectives": [
+          "Rapid clearance of parasitemia",
+          "Urgent treatment for life-threatening complications or conditions",
+          "Appropriate supportive care"
+        ],
+        "NonPharmacological": {
+          "Positioning": "Place unconscious or seizing patients in a safe position to prevent aspiration"
+        },
+        "Pharmacological": {
+          "PreReferral_Treatment": {
+            "Artesunate_IM": {
+              "Adults_Children_>_20_kg": "2.4 mg/kg",
+              "Children_<_20_kg": "3 mg/kg"
+            },
+            "Artemether_IM": "3.2 mg/kg",
+            "Quinine_IM": "10 mg/kg",
+            "Artesunate_Rectal": "10 mg/kg (preferred in children under 6 years)"
+          }
+        }
+      }
+    }
+  }
+]

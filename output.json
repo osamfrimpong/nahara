@@ -35,7 +35,7 @@
         "ContactDermatitisEczemaPsoriasis": {
           "Hydrocortisone cream 1%": "Apply 2-3 times daily (Adults), >10 years: apply thinly 12-24 hourly for 7 days (Children), Mometasone lotion/ointment 0.1%: Apply thinly once daily for 7 days (Adults), Apply thinly once daily for 7 days (Children), Betamethasone cream/ointment. Apply thinly 12-24 hourly for 7 days (Adults), 1-18 years: apply thinly 12-24 hourly for 7 days (Children)"
         },
-        "ReferralCriteria": "Refer patients not responding to treatment to a dermatologist."
+        "Referral Criteria": "Refer patients not responding to treatment to a dermatologist."
       }
     }
   },
@@ -438,7 +438,7 @@
         "Pharmacological treatment": ["Medication Abortion"]
       }
     },
-    "REFERRAL CRITERIA": "Refer early for specialist care if the uterus is suspected or found to be perforated or if complications e.g. infection or profuse bleeding are severe."
+    "Referral Criteria": "Refer early for specialist care if the uterus is suspected or found to be perforated or if complications e.g. infection or profuse bleeding are severe."
   },
 
   {
@@ -531,7 +531,7 @@
           }
         ]
       },
-      "REFERRAL CRITERIA": "Refer patients not responding to treatment to a dermatologist. Suspected underlying endocrine conditions should be referred to an endocrinologist."
+      "Referral Criteria": "Refer patients not responding to treatment to a dermatologist. Suspected underlying endocrine conditions should be referred to an endocrinologist."
     }
   },
 
@@ -578,7 +578,7 @@
           "Potassium citrate, oral": "10 ml 8 hourly if urine is acidic (pH of 6 or below)",
           "Paracetamol, oral": "500 mg-1g 6-8 hourly when required"
         },
-        "ReferralCriteria": "Refer all cases which require cystoscopy and all cases of persistent haematuria, recurrent cystitis, or bacterial resistance to the specialist."
+        "Referral Criteria": "Refer all cases which require cystoscopy and all cases of persistent haematuria, recurrent cystitis, or bacterial resistance to the specialist."
       }
     }
   },
@@ -852,7 +852,7 @@
           "Diclofenac (50-100 mg 8 to 12 hourly)",
           "Mefenamic Acid (500 mg 8 hourly)"
         ],
-        "ReferralCriteria": "Refer to gynaecologist or general surgeon if no improvement or pelvic abscess suspected"
+        "Referral Criteria": "Refer to gynaecologist or general surgeon if no improvement or pelvic abscess suspected"
       }
     }
   },
@@ -888,7 +888,7 @@
           ],
           "Pain Relief": ["Paracetamol (500 mg-1 g 6-8 hourly)"],
           "Nasal Decongestion": ["Ephedrine Nasal Drops"],
-          "ReferralCriteria": "Refer to ENT Specialist if no improvement after 1 week of treatment"
+          "Referral Criteria": "Refer to ENT Specialist if no improvement after 1 week of treatment"
         }
       }
     }
@@ -932,7 +932,7 @@
           ],
           "Surgery": "Valve replacement if severe valve disease is present"
         },
-        "ReferralCriteria": "Refer to Cardiologist for consideration of echocardiography"
+        "Referral Criteria": "Refer to Cardiologist for consideration of echocardiography"
       }
     }
   },
@@ -976,7 +976,7 @@
             }
           }
         },
-        "ReferralCriteria": "Refer to clinical psychologist, occupational therapist, remedial teacher, speech therapist as needed; refer to specialist if no clinical improvement after a month of therapy"
+        "Referral Criteria": "Refer to clinical psychologist, occupational therapist, remedial teacher, speech therapist as needed; refer to specialist if no clinical improvement after a month of therapy"
       }
     }
   },
@@ -1025,7 +1025,7 @@
             }
           }
         },
-        "ReferralCriteria": "Refer all patients suspected of adrenal insufficiency to a regional/teaching hospital for assessment and management"
+        "Referral Criteria": "Refer all patients suspected of adrenal insufficiency to a regional/teaching hospital for assessment and management"
       }
     }
   },
@@ -1064,7 +1064,7 @@
             "Phenobarbitone (IV or IM)": "0.5-1.5 mg/kg 12 hourly"
           }
         },
-        "ReferralCriteria": "Refer patients to a specialist if symptoms are difficult to control or if patient remains agitated after appropriate treatment"
+        "Referral Criteria": "Refer patients to a specialist if symptoms are difficult to control or if patient remains agitated after appropriate treatment"
       }
     }
   },
@@ -1114,7 +1114,7 @@
             }
           }
         },
-        "ReferralCriteria": "Refer patients with large abscesses or poor treatment response to a specialist"
+        "Referral Criteria": "Refer patients with large abscesses or poor treatment response to a specialist"
       }
     }
   },
@@ -1196,7 +1196,7 @@
           },
           "Severe Symptomatic Anaemia": "Blood transfusion with packed cells"
         },
-        "ReferralCriteria": "Refer patients with no improvement in haemoglobin levels after two weeks or severe anaemia to a specialist"
+        "Referral Criteria": "Refer patients with no improvement in haemoglobin levels after two weeks or severe anaemia to a specialist"
       }
     }
   },
@@ -1235,7 +1235,7 @@
             "And Epoetin beta, Methoxy polyethylene glycol epoetin beta, or Darbepoetin alfa (consult specialist)"
           ]
         },
-        "ReferralCriteria": "Refer all CKD patients with anaemia to a specialist or nephrologist"
+        "Referral Criteria": "Refer all CKD patients with anaemia to a specialist or nephrologist"
       }
     }
   },
@@ -1282,7 +1282,7 @@
           "Blood transfusion": "In severe cases (Hb < 7 g/dL)",
           "Furosemide IV": "20-40 mg if giving whole blood"
         },
-        "ReferralCriteria": {
+        "Referral Criteria": {
           "Dietician or diet nurse": "For counseling and support",
           "Specialist": [
             "For severe anaemia treatment (Hb < 7 g/dL)",
@@ -1317,7 +1317,7 @@
           "Second Line Treatment: Ketamine, IM or IV, 1-2 mg/kg (slowly), or Ketamine IV infusion for longer procedures, and Diazepam, slow IV, 5-10 mg (administered over 2-3 minutes)"
         ]
       },
-      "ReferralCriteria": "Procedure carried out by an anaesthetist. Refer to specialist for severe anemia treatment (Hb < 7 g/dL), no response to oral treatment, or management of associated conditions (e.g., HIV, Hemoglobinopathies)"
+      "Referral Criteria": "Procedure carried out by an anaesthetist. Refer to specialist for severe anemia treatment (Hb < 7 g/dL), no response to oral treatment, or management of associated conditions (e.g., HIV, Hemoglobinopathies)"
     }
   },
   {
@@ -1360,7 +1360,7 @@
           ],
           "1st Line Treatment SevereHypotension": ["Normal saline, IV"]
         },
-        "ReferralCriteria": "Refer to district or regional hospital if symptoms persist after initial treatment"
+        "Referral Criteria": "Refer to district or regional hospital if symptoms persist after initial treatment"
       }
     }
   },
@@ -1455,7 +1455,7 @@
           ]
         }
       },
-      "ReferralCriteria": "Patients with the following conditions must be referred to a specialist. Poor response to diuretic therapy or diuretic-refractory ascites, complicated cirrhotic ascites with suspected spontaneous bacterial peritonitis, hepato-renal syndrome, and hepatic encephalopathy."
+      "Referral Criteria": "Patients with the following conditions must be referred to a specialist. Poor response to diuretic therapy or diuretic-refractory ascites, complicated cirrhotic ascites with suspected spontaneous bacterial peritonitis, hepato-renal syndrome, and hepatic encephalopathy."
     }
   },
   {
@@ -1537,7 +1537,7 @@
             "Alendronate, consult specialist"
           ]
         },
-        "ReferralCriteria": "Refer once the diagnosis is made to orthopedic specialist."
+        "Referral Criteria": "Refer once the diagnosis is made to orthopedic specialist."
       }
     }
   },
@@ -1610,7 +1610,7 @@
             "Patients should be given long-term anticoagulation"
           ]
         },
-        "ReferralCriteria": "Refer all patients to a cardiologist, physician specialist, or paediatrician for further evaluation and management after the initial treatment immediately. All symptomatic patients, as well as those who cannot have an ECG done or interpreted, or who present with heart failure, should be referred."
+        "Referral Criteria": "Refer all patients to a cardiologist, physician specialist, or paediatrician for further evaluation and management after the initial treatment immediately. All symptomatic patients, as well as those who cannot have an ECG done or interpreted, or who present with heart failure, should be referred."
       }
     }
   },
@@ -1759,7 +1759,7 @@
             ]
           }
         ],
-        "ReferralCriteria": "Refer all patients suffering a first episode, not responding to treatment after one month, and all children to a psychiatrist."
+        "Referral Criteria": "Refer all patients suffering a first episode, not responding to treatment after one month, and all children to a psychiatrist."
       }
     }
   },
@@ -1795,7 +1795,7 @@
             "Sodium valproate, oral",
             "Carbamazepine, oral"
           ],
-          "ReferralCriteria": "Refer all patients with respiratory failure, heart failure, renal failure, muscle paralysis, muscle necrosis, bleeding, or intravascular hemolysis to a regional hospital for specialist care."
+          "Referral Criteria": "Refer all patients with respiratory failure, heart failure, renal failure, muscle paralysis, muscle necrosis, bleeding, or intravascular hemolysis to a regional hospital for specialist care."
         }
       }
     }
@@ -1977,7 +1977,7 @@
             "Chemotherapeutic agents recommended for advanced stage include Methotrexate, Vinblastine, Adriamycin and Cisplatin."
           ]
         },
-        "ReferralCriteria": "Refer all cases of bladder cancer for specialist evaluation and treatment."
+        "Referral Criteria": "Refer all cases of bladder cancer for specialist evaluation and treatment."
       }
     }
   },

@@ -11706,7 +11706,8 @@
         "Then 20-50 g every 2-6 hours as required",
         "Precautions: Routine use not recommended, most effective within 2-4 hours of ingestion; Contraindications: Any aspiration risk (e.g. kerosene, coma), Patients at risk of gastrointestinal haemorrhage, perforation or obstruction (e.g. ingestion of caustics)"
       ]
-    },
+    }
+  },
 
     "Pharyngitis_and_Tonsillitis": {
       "Description": "An infection of the throat and tonsils. Most sore throats are due to viral infections and should NOT be treated with antibiotics as they subside within 3 to 5 days. However, streptococcal pharyngitis requires antibiotics to reduce complications.",
@@ -13984,4 +13985,4 @@
       "Referral Criteria": "Refer to a hospital, preferably one with an isolation unit."
     }
   }
-}
+
