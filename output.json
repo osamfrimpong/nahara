@@ -1,45 +1,5 @@
 [
-  {
-    "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
-    "input": "Patient complains of an itchy, scaly rash accompanied by dry skin. The condition has progressed to a weeping, reddened rash with discharging lesions. On examination, signs of dry and scaly skin are evident, along with observed erythema, excoriations, papules, vesicles, creamy satellite pustules, persistent brown patches, well-demarcated patches, and plaques.",
-    "output": {
-      "Suspected medical condition": "INTERTRIGO",
-      "Investigations": [
-        "Patch testing for contact dermatitis",
-        "Skin scraping for fungal elements",
-        "Fasting blood glucose",
-        "Swab for culture and sensitivity"
-      ],
-      "TreatmentObjectives": [
-        "Relieve symptoms and/or associated discomfort",
-        "Identify and treat any predisposing factors"
-      ],
-      "NonPharmacologicalTreatment": [
-        "Wear loose cotton clothing and open footwear",
-        "Weight loss",
-        "Avoid precipitating factors if any"
-      ],
-      "PharmacologicalTreatment": {
-        "CandidaIntertrigo": {
-          "Miconazole 2% + 1% hydrocortisone cream": "Apply 12 hourly for 14 days (Adults), Apply 12 hourly for 7 days (Children)",
-          "Miconazole 2% cream": "Apply 12-24 hourly till rash resolves (Adults), Apply 12-24 hourly till rash resolves (Children)",
-          "Clotrimazole 1% cream": "Apply 12-24 hourly till rash resolves (Adults), Apply 12-24 hourly till rash resolves (Children)",
-          "Miconazole 2% powder": "Apply 12-24 hourly till rash resolves (Adults), Apply 12-24 hourly till rash resolves (Children)",
-          "Clotrimazole 1% powder": "Apply 12-24 hourly till rash resolves (Adults), Apply 12-24 hourly till rash resolves (Children)",
-          "Itraconazole (oral)": "200 mg daily for 7 days (Adults), 200 mg daily for 7 days (Children > 12 years), 3-5 mg/kg daily for 7 days (1 month-12 years)",
-          "Fusidic Acid 2% cream": "Apply 6-8 hourly to affected parts (Adults), Apply 6-8 hourly to affected parts (Children)",
-          "Clarithromycin (oral)": "1 g stat (Adults), 250-500 mg stat (Children)",
-          "Erythromycin (oral)": "500 mg 12 hourly for 5 days (Adults), 8-18 years: 250-500 mg 12 hourly for 5 days, 2-8 years: 250 mg of syrup 12 hourly for 5 days",
-          "Whitfield's ointment": "Apply 12 hourly till rash resolves (Adults), Apply 12 hourly till rash resolves (Children)"
-        },
-        "ContactDermatitisEczemaPsoriasis": {
-          "Hydrocortisone cream 1%": "Apply 2-3 times daily (Adults), >10 years: apply thinly 12-24 hourly for 7 days (Children), Mometasone lotion/ointment 0.1%: Apply thinly once daily for 7 days (Adults), Apply thinly once daily for 7 days (Children), Betamethasone cream/ointment. Apply thinly 12-24 hourly for 7 days (Adults), 1-18 years: apply thinly 12-24 hourly for 7 days (Children)"
-        },
-        "Referral Criteria": "Refer patients not responding to treatment to a dermatologist."
-      }
-    }
-  },
-
+ 
   {
     "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
     "input": "Patient complains of the sudden or gradual onset of swelling and/or pain in the scrotum or its contents. Additionally, there may be fever accompanying these symptoms. The patient reports tender or non-tender swelling localized to the scrotum. There is a concern for possible infections as indicated by the presence of fever. The medical assessment involves conducting transillumination for hydrocele and thorough examination of the abdomen, groin, and testicles to determine the underlying cause of these distressing symptoms and signs.",

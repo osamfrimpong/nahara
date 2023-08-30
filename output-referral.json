@@ -1,44 +1,4 @@
 [
-    {
-      "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
-      "input": "Patient complains of an itchy, scaly rash accompanied by dry skin. The condition has progressed to a weeping, reddened rash with discharging lesions. On examination, signs of dry and scaly skin are evident, along with observed erythema, excoriations, papules, vesicles, creamy satellite pustules, persistent brown patches, well-demarcated patches, and plaques.",
-      "output": {
-        "Suspected medical condition": "INTERTRIGO",
-        "Investigations": [
-          "Patch testing for contact dermatitis",
-          "Skin scraping for fungal elements",
-          "Fasting blood glucose",
-          "Swab for culture and sensitivity"
-        ],
-        "TreatmentObjectives": [
-          "Relieve symptoms and/or associated discomfort",
-          "Identify and treat any predisposing factors"
-        ],
-        "NonPharmacologicalTreatment": [
-          "Wear loose cotton clothing and open footwear",
-          "Weight loss",
-          "Avoid precipitating factors if any"
-        ],
-        "PharmacologicalTreatment": {
-          "CandidaIntertrigo": {
-            "Miconazole 2% + 1% hydrocortisone cream": "Apply 12 hourly for 14 days (Adults), Apply 12 hourly for 7 days (Children)",
-            "Miconazole 2% cream": "Apply 12-24 hourly till rash resolves (Adults), Apply 12-24 hourly till rash resolves (Children)",
-            "Clotrimazole 1% cream": "Apply 12-24 hourly till rash resolves (Adults), Apply 12-24 hourly till rash resolves (Children)",
-            "Miconazole 2% powder": "Apply 12-24 hourly till rash resolves (Adults), Apply 12-24 hourly till rash resolves (Children)",
-            "Clotrimazole 1% powder": "Apply 12-24 hourly till rash resolves (Adults), Apply 12-24 hourly till rash resolves (Children)",
-            "Itraconazole (oral)": "200 mg daily for 7 days (Adults), 200 mg daily for 7 days (Children > 12 years), 3-5 mg/kg daily for 7 days (1 month-12 years)",
-            "Fusidic Acid 2% cream": "Apply 6-8 hourly to affected parts (Adults), Apply 6-8 hourly to affected parts (Children)",
-            "Clarithromycin (oral)": "1 g stat (Adults), 250-500 mg stat (Children)",
-            "Erythromycin (oral)": "500 mg 12 hourly for 5 days (Adults), 8-18 years: 250-500 mg 12 hourly for 5 days, 2-8 years: 250 mg of syrup 12 hourly for 5 days",
-            "Whitfield's ointment": "Apply 12 hourly till rash resolves (Adults), Apply 12 hourly till rash resolves (Children)"
-          },
-          "Contact Dermatitis Eczema Psoriasis": {
-            "Hydrocortisone cream 1%": "Apply 2-3 times daily (Adults), >10 years: apply thinly 12-24 hourly for 7 days (Children), Mometasone lotion/ointment 0.1%: Apply thinly once daily for 7 days (Adults), Apply thinly once daily for 7 days (Children), Betamethasone cream/ointment. Apply thinly 12-24 hourly for 7 days (Adults), 1-18 years: apply thinly 12-24 hourly for 7 days (Children)"
-          }
-          
-        }
-      }
-    },
   
     {
       "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
@@ -2547,6 +2507,652 @@
           "Referral_Criteria": "Refer patients with recurrent tonsillitis, retropharyngeal and peritonsillar abscess to an ENT specialist"
         }
       }
+    },
+    {
+        "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+        "input":"Patient, a 65-year-old male, presents with a sudden onset of right-sided weakness and slurred speech. History reveals hypertension and hyperlipidemia. Neurological exam shows facial droop, weakness in the right arm and leg, and increased reflexes on the right side.",
+        "output":{
+            "Suspected medical condition":"Stroke",
+            "Risk Factors": {
+                "Adults": "Hypertension, diabetes, dyslipidemia, atrial fibrillation, smoking.",
+                "Children": "Sickle cell disease, cyanotic heart disease."
+              },
+              "Treatment": {
+                "Objectives": [
+                  "Limit brain damage.",
+                  "Protect from unconsciousness and immobility.",
+                  "Prevent aspiration.",
+                  "Treat underlying cause.",
+                  "Manage modifiable risk factors.",
+                  "Improve functional recovery.",
+                  "Support and rehabilitate patients.",
+                  "Minimize adverse effects of drug therapy."
+                ],
+                "Non-Pharmacological": [
+                  "Admit and monitor vital signs.",
+                  "Ensure airway.",
+                  "Hydration and turning.",
+                  "Physiotherapy.",
+                  "Psychological support."
+                ],
+                "Pharmacological": {
+                  "Oxygen Therapy": "1-6 L as required.",
+                  "Steroids": "Hydrocortisone IV.",
+                  "Bacterial Infection": "Amoxicillin + Clavulanic Acid, Metronidazole, Cefuroxime."
+                },
+                "Referral Criteria": "Refer patients with worsening symptoms and signs for specialist evaluation and care."
+              }
+
+        }
+
+    },
+
+
+
+    {
+        "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+        "input":"Patient, a 10-year-old child, presents with poor night vision and dry conjunctiva. On examination, notable signs include grey sclera, conjunctival folding, and keratomalacia with a cloudy cornea and soft ulceration.",
+        "output":{
+            "Suspected medical condition": "Vitamin A Deficiency",
+            "Causes": [
+                "Vitamin A deficiency resulting from",
+                "Protein calorie malnutrition",
+                "Measles",
+                "Malabsorption states"
+              ],
+            "Treatment": {
+                "Objectives": [
+                  "To recognize and correct vitamin A deficiency",
+                  "To prevent complications e.g. blindness"
+                ],
+                "Non-Pharmacological": "High vitamin A containing foods should be encouraged",
+                "Pharmacological": {
+                  "Give Vitamin A to children as soon as the illness is diagnosed and also in patients with measles and malnutrition": {
+                    "Vitamin A": {
+                      "Children": [
+                        "Immediately after diagnosis:",
+                        "1-6 years: 200,000 Units",
+                        "6-11 months: 100,000 Units",
+                        "Then (after 24 hours):",
+                        "1-6 years: 200,000 Units",
+                        "6-11 months: 100,000 Units",
+                        "Then (after 1 week):",
+                        "1 - 6 years: 200,000 Units",
+                        "6-11 months: 100,000 Units"
+                      ]
+                    }
+                  }
+                }
+              }
+        }
+
+    },
+
+    {
+        "prompt": "As a medical copilot, please generate a short intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+        "Input": "Rigors, fever (occasionally periodic), sweating, general malaise, joint pains",
+        "output": {
+          "Suspected medical condition": "Malaria",
+          "Action": "Take a blood film or perform rapid diagnostic test for malaria parasites and treat appropriately",
+          "Treatment": {
+            "Objectives": [
+              "Avoid progression to severe malaria",
+              "Limit duration of illness",
+              "Minimize development of drug-resistant parasites"
+            ],
+            "NonPharmacological": {
+              "Tepid_Sponging": "In children, tepid sponging to reduce body temperature"
+            },
+            "Pharmacological": {
+              "1st_Line_Treatment": {
+                "Artesunate_Amodiaquine": "Artesunate + Amodiaquine, oral",
+                "Artemether_Lumefantrine": "Artemether + Lumefantrine, oral",
+                "Dihydroartemisinin_Piperaquine": "Dihydroartemisinin + Piperaquine, oral"
+              }
+            }
+          }
+        }
+      },
+
+
+    {
+        "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+        "input":"The patient presents with recurrent episodes of hematuria, dysuria, and lower abdominal pain. They have a history of swimming in freshwater bodies in an endemic area. Laboratory tests may reveal the presence of blood in urine and microscopic examination might show Schistosoma haematobium eggs.",
+        "output":{
+          "Suspected medical condition":"Urinary Schistosomiasis",
+          "Causes":["Schistosoma haematobium"], 
+          "Treatment": {
+            "Objectives": [
+              "To eliminate the causative organism",
+              "To manage the complications"
+            ],
+            "Non-Pharmacological": "Avoid repeated exposure to infested water bodies if possible",
+            "Pharmacological": "Praziquantel, oral, Adults and Children 40 mg/kg as a single dose",
+            "Referral Criteria": "Refer patient after adequate treatment if haematuria and/or symptoms of urinary infection persist or if complications are present."
+          }
+
+        }
+
+    },
+
+    {
+        "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+        "input":"A 30-year-old man comes to the emergency department because of an acute episode of renal colic. Medical history is remarkable for episodes of painful urination",
+        "output":{
+          "Suspected medical condition":"Urinary Tract Calculi",
+          "Causes":[
+            "Hypercalcaemia",
+          "Hyperuricaemia",
+          "Hyperoxaluria",
+          "Urinary stasis and obstruction",
+          "Urinary tract infection: struvite (infection) stones",
+          "Foreign body including urinary catheter and suture material",
+          "Idiopathic hypercalciuria",
+          "Dehydration",
+          "Immobilisation especially in the elderly",
+          "Inborn errors of metabolism e.g. Cystinuria"
+          ],
+          "Treatment": {
+            "Objectives": [
+              "To control pain during acute attack",
+              "To aid passage of the calculus or ensure complete removal",
+              "To remove large stones",
+              "To prevent recurrence if the cause is known",
+              "To treat associated infections"
+            ],
+            "Non-Pharmacological": [
+              "Encourage oral fluid intake (2-3 L daily in an adult) and avoid dehydration",
+              "Avoid low calcium diet",
+              "Diet therapy",
+              "Manage acute urinary retention due to bladder or urethral stones by catheterisation or suprapubic cystostomy"
+            ],
+            "Pharmacological": [
+              "Pethidine, IM, 100 mg 4 hourly as required",
+              "Diclofenac, IM, 75 mg 12 hourly",
+              "Diclofenac, rectal, 100 mg 12 hourly",
+              "Hyoscine butylbromide, IV, 20 mg 8 hourly",
+              "Mebeverine, oral, 135 mg 8 hourly may be useful",
+              "Give antibiotics if urinary tract infection is present"
+            ],
+            "Referral Criteria": "Refer to a urologist or surgical specialist for definitive treatment after initial management."
+          }
+
+        }
+
+    },
+
+    {
+        "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+        "input":"The patient experiences lower abdominal discomfort, inability to urinate, and a bloated feeling. Physical examination reveals a distended bladder and difficulty in passing urine despite the urge. A history of prostate enlargement or urinary tract obstruction may be explored.",
+        "output":{
+          "Suspected medical condition":"Retention of Urine",
+          "Causes":[
+            "Adult males (above 50 years)", "BPH, urethral strictures, bladder neck stenosis",
+          "Adult males (below 50 years/young males)", "Urethral strictures, urethral injuries, bladder neck stenosis, neurogenic bladder/spinal injury, paraphimosis, urethral calculi, acute prostatitis",
+          "Male children", "Posterior urethral valves, meatal stenosis, phimosis, urethral calculi, congenital strictures",
+          "Adult females", "Retroverted gravid uterus, uterine fibroids/myomas, impacted ovarian cysts, neurogenic (postoperative and pelvic inflammatory disease), carcinoma of cervix with infiltration into the urethra"
+          ]
+        }
+
+    },
+
+    {
+        "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+        "input":"The patient presents with raised, itchy wheals on various parts of the body for the past two days. These lesions are red and surrounded by pale halos. No respiratory or gastrointestinal symptoms are noted.",
+        "output":{
+          "Suspected medical condition":"Urticari",
+          "Causes":[
+            "Medicines",
+          "Foods",
+          "Infections",
+          "Latex",
+          "Medical conditions",
+          "Plants",
+          "Idiopathic",
+          "Environmental and physical factors"
+          ],
+          "Treatment": {
+            "Objectives": [
+              "To provide immediate relief",
+              "To prevent complications such as anaphylaxis, shock or asphyxiation",
+              "To identify possible underlying cause and address it"
+            ],
+            "Non-Pharmacological": "Avoid contact with or further use of the suspected allergen or causative agent",
+            "Pharmacological": {
+              "Anti-Emetics for use in Migraine": [
+                "Metoclopramide, oral/IV/IM",
+                "Domperidone, oral",
+                "Promethazine, IV/IM"
+              ],
+              "Anti-Emetics for use in Vestibular Nausea and Vomiting": [
+                "Promethazine, oral",
+                "Cyclizine, oral",
+                "Cinnarizine, IV/IM"
+              ],
+              "Anti-Emetics for use in Gastroenteritis": [
+                "Metoclopramide, oral/IV/IM",
+                "Domperidone, oral"
+              ],
+              "Anti-Emetics for use in Post-Operative Vomiting": [
+                "Metoclopramide, oral/IV/IM",
+                "Cyclizine, oral/IV/IM"
+              ],
+              "Anti-Emetics for use in Chemotherapy-Induced Vomiting": [
+                "Ondansetron, IV/oral",
+                "Granisetron, IV/oral",
+                "Dexamethasone, oral/IV",
+                "Lorazepam, oral/IV"
+              ],
+              "Anti-Emetics for use in Pregnancy": [
+                "Promethazine teoclate, oral",
+                "Promethazine, IM",
+                "Metoclopramide, oral",
+                "Ondansetron, IV/oral"
+              ]
+            }
+          }
+
+        }
+
+    },
+
+    {
+        "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+        "input":"The patient complains of lower abdominal pain, frequent urination, and difficulty passing urine. Physical examination and imaging show signs of urinary tract obstruction, possibly due to calculi or an anatomical abnormality.",
+        "output":{
+          "Suspected medical condition":"Urinary Tract Infection",
+          "Causes":["Bacteraemia or septicaemia", "Urinary tract obstruction"],
+          "Treatment": {
+            "Objectives": [
+              "To relieve symptoms such as fever and pain",
+              "To eradicate causative agent",
+              "To prevent complications",
+              "To identify patients with abnormalities of the genito-urinary tract"
+            ],
+            "Non-Pharmacological": [
+              "Maintain adequate oral fluid intake",
+              "Maintain adequate nutrition",
+              "Place naso-gastric tube when needed",
+              "Surgical intervention in suspected intestinal obstruction, peritonitis"
+            ],
+            "Pharmacological": {
+              "Pre-operative treatment": [
+                "Vincristine, IV",
+                "Actinomycin D, IV",
+                "Doxorubicin, IV (if presence of metastases)"
+              ],
+              "Post-operative treatment": [
+                "Vincristine, IV",
+                "Actinomycin D, IV",
+                "Doxorubicin, IV (depending on stage and risk category)",
+                "Carboplatin, IV",
+                "Etoposide, IV",
+                "Doxorubicin, IV",
+                "Cyclophosphamide IV in combination (For high risk tumours)"
+              ],
+              "For treatment of vomiting": [
+                "Metoclopramide, IV or oral",
+                "Granisetron, IV/oral",
+                "Ondansetron, IV/oral",
+                "Dexamethasone, oral/IV",
+                "Lorazepam, oral/IV"
+              ],
+              "For treatment of febrile neutropenia": [
+                "Ceftriaxone, IV",
+                "Gentamicin, IV",
+                "Cloxacillin, IV",
+                "Fluconazole, oral"
+              ],
+              "For treatment of anaemia and thrombocytopenia": [
+                "Blood and blood product transfusions"
+              ]
+            }
+          }
+        }
+
+    },
+
+    {
+        "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+        "input":"The patient reports abdominal pain, itching around the anal area, and occasional passage of worms in their stool. No other gastrointestinal symptoms are noted. Clinical examination reveals the presence of perianal irritation and, upon inspection, worms are observed in the stool.",
+        "output":{
+          "Suspected medical condition":"Worm Infestation",
+          "Causes":[
+            "Hookworm",
+          "Ascaris",
+          "Strongyloides",
+          "Tape worm",
+          "Thread worm",
+          "Whip worm"
+          ],
+          "Treatment": {
+            "Objectives": [
+              "To eliminate the worms",
+              "To treat the complications of infestation e.g. anaemia, malnutrition",
+              "To ensure proper sanitation"
+            ],
+    
+            "Non-Pharmacological": [
+              "Ensure proper nutrition",
+              "Proper hand washing with soap and running water"
+            ],
+            "pharmacological-treatment": [
+              {
+                "worm": "Hookworm",
+                "medications": [
+                  {
+                    "name": "Mebendazole, oral",
+                    "administration": {
+                      "Adults": "500 mg as single dose",
+                      "Or": "100 mg 12 hourly for 3 days",
+                      "Children > 12 months": "100 mg 12 hourly for 3 days",
+                      "Not recommended for children below 12 months and in pregnant women": ""
+                    }
+                  },
+                  {
+                    "name": "Albendazole, oral",
+                    "administration": {
+                      "Adults and children > 12 months": "400 mg as a single dose",
+                      "Children below 12 months": "200 mg as a single dose",
+                      "Not recommended during pregnancy": ""
+                    }
+                  }
+                ],
+                "evidence_rating": "B"
+              },
+    
+              {
+                "worm": "Ascaris",
+                "medications": [
+                  {
+                    "name": "Mebendazole, oral",
+                    "administration": {
+                      "Adults and children above 12 months": "100 mg 12 hourly for 3 days",
+                      "Or": "500 mg as single dose",
+                      "Not recommended for children below 12 months and in pregnant women": ""
+                    }
+                  },
+                  {
+                    "name": "Albendazole, oral",
+                    "administration": {
+                      "Adults and children above 12 months": "400 mg as a single dose",
+                      "Children below 12 months": "200 mg as a single dose",
+                      "Not recommended during pregnancy": ""
+                    }
+                  }
+                ],
+                "evidence_rating": "A"
+              },
+    
+              {
+                "worm": "Whipworm",
+                "medications": [
+                  {
+                    "name": "Mebendazole, oral",
+                    "administration": {
+                      "Adults and children above 12 months": "100 mg 12 hourly for 3 days",
+                      "Or": "500 mg as single dose",
+                      "Not recommended for children below 12 months and in pregnant women": ""
+                    }
+                  },
+                  {
+                    "name": "Albendazole, oral",
+                    "administration": {
+                      "Adults and children above 12 months": "400 mg as a single dose",
+                      "Children below 12 months": "200 mg as a single dose",
+                      "Not recommended during pregnancy": ""
+                    }
+                  }
+                ],
+                "evidence_rating": "B"
+              },
+    
+              [
+                {
+                  "worm": "Threadworm",
+                  "medications": [
+                    {
+                      "name": "Mebendazole, oral",
+                      "administration": {
+                        "Adults and children above 12 months": "100 mg 12 hourly for 3 days",
+                        "Or": "500 mg as single dose",
+                        "Not recommended for children below 12 months and in pregnant women": "",
+                        "Repeat treatment after 3 weeks": ""
+                      }
+                    },
+                    {
+                      "name": "Albendazole, oral",
+                      "administration": {
+                        "Adults and Children above 12 months": "400 mg as a single dose",
+                        "Children below 12 months": "200 mg as a single dose",
+                        "Not recommended during pregnancy": "",
+                        "Repeat treatment after 3 weeks": ""
+                      }
+                    }
+                  ],
+                  "evidence_rating": "C"
+                },
+                {
+                  "worm": "Strongyloides",
+                  "medications": [
+                    {
+                      "name": "Albendazole, oral",
+                      "administration": {
+                        "Adults and Children above 12 months": "400 mg 12 hourly for 3 days",
+                        "Children below 12 months": "200 mg 12 hourly for 3 days",
+                        "Or": "Tiabendazole (Thiabendazole), oral, Adults - 1.5 g 12 hourly for 3 days, Children - 25 mg/kg 12 hourly for 3 days",
+                        "Not recommended during pregnancy": "",
+                        "Repeat treatment after three weeks. Alternatively, a 7-days treatment without repeat is acceptable. Ivermectin is the drug of choice but has the danger of precipitating life-threatening encephalopathy in microfilaria endemic areas.": ""
+                      }
+                    }
+                  ],
+                  "evidence_rating": "B"
+                },
+                {
+                  "worm": "Tapeworm",
+                  "medications": [
+                    {
+                      "name": "Praziquantel, oral",
+                      "administration": {
+                        "Adults and children": "5-10 mg/kg as a single dose. (25 mg/kg as a single dose for Hymenolepis nana; repeated in 10 days)"
+                      }
+                    },
+                    {
+                      "name": "Niclosamide, oral",
+                      "administration": {
+                        "Adults and children above 6 years": "2g as a single dose",
+                        "Children < 2 years": "500 mg as a single dose",
+                        "2-6 years": "1 g as a single dose",
+                        "Chew tablets 2 hours before meals": ""
+                      }
+                    }
+                  ],
+                  "evidence_rating": "C"
+                }
+              ]
+            ]
+          }
+        }
+
+    },
+
+    {
+        "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+        "input":"A 3-year child is brought in due to a painless abdominal mass that was noticed by the parents. Physical examination reveals a firm, non-tender mass in the kidney area. Imaging shows a large renal tumor with characteristic features.",
+        "output":{
+          "Suspected medical condition":"Wilms Tumour",
+          "Causes":["Sporadic gene mutation"],
+          "Treatment": {
+            "Objectives": [
+              "To obtain long term cure",
+              "To provide adequate supportive and palliative care"
+            ],
+            "Non-Pharmacological": [
+              "Nephrectomy",
+              "Radiotherapy post-surgery for advanced cases"
+            ],
+            "Pharmacological": {
+              "Pre-operative treatment": [
+                "Vincristine, IV",
+                "Actinomycin D, IV",
+                "Doxorubicin, IV (if presence of metastases)"
+              ],
+              "Post-operative treatment": [
+                "Vincristine, IV",
+                "Actinomycin D, IV",
+                "Doxorubicin, IV (depending on stage and risk category)",
+                "Carboplatin, IV",
+                "Etoposide, IV",
+                "Doxorubicin, IV",
+                "Cyclophosphamide IV in combination (For high risk tumours)"
+              ],
+              "For treatment of vomiting": [
+                "Metoclopramide, IV or oral",
+                "Granisetron, IV/oral",
+                "Ondansetron, IV/oral",
+                "Dexamethasone, oral/IV",
+                "Lorazepam, oral/IV"
+              ],
+              "For treatment of febrile neutropenia": [
+                "Ceftriaxone, IV",
+                "Gentamicin, IV",
+                "Cloxacillin, IV",
+                "Fluconazole, oral"
+              ],
+              "For treatment of anaemia and thrombocytopenia": [
+                "Blood and blood product transfusions"
+              ]
+            }
+          }
+        }
+
+    },
+    {
+        "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+        "input":"The patient presents with a laceration on the forearm, approximately 5 cm in length. The wound edges are clean, and there is minimal bleeding. The wound is sutured, and appropriate wound care instructions are provided.",
+        "output":{
+          "Suspected medical condition":"Wound",
+          "Causes":[
+            "Mechanical agents e.g. cut from cutlass or knife, gunshot, accidents, contusion from blunt injury.",
+          "Chemical agents e.g. strong acids or alkalis, other corrosive chemicals",
+          "Thermal injury resulting in burns"
+          ],
+          "Treatment": {
+            "Objectives": [
+              "To control bleeding",
+              "To relieve pain",
+              "To prevent or treat infection",
+              "To protect against tetanus",
+              "To promote wound healing"
+            ],
+            "Non-Pharmacological": [
+              "Apply sterile pressure dressing to bleeding site and raise the injured part to control bleeding.",
+              "If a bleeding vessel can be identified, it should be ligated. (the use of tourniquet to stop bleeding is discouraged)",
+              "Bleeding from a tooth socket - put a small piece of sterile gauze in the socket and ask the patient to bite on it.",
+              "Immediate closure of wounds is good, but this is not advisable if the wound is dirty or likely to become infected e.g. gunshot wounds, animal and human bites and wounds over 6 hours old. They should not be sewn up.",
+              "Wash hands well and wear sterile gloves. Clean the wound with antiseptic solution. Scrub dirty wounds with antiseptic solution and irrigate with dilute hydrogen peroxide and saline.",
+              "If there are bits of gravel, glass or dirt in the wound, remove them gently. Lift up all flaps of skin, clean under them, excise all dead tissue and cover the wound with sterile gauze.",
+              "Anaesthesia may be required.",
+              "Do not use Eusol, which is both irritant and exposes patient to unnecessary borate levels",
+              "Dress infected wound as often as needed with normal saline or povidone iodine lotion. Take wound swab for culture and sensitivity test if possible and start Amoxicillin while waiting for results of wound culture."
+            ],
+            "Pharmacological": {
+              "1st Line Treatment": {
+                "Tetanus prophylaxis": "for all potentially contaminated wounds, followed by booster doses of tetanus toxoid as appropriate",
+                "Paracetamol": [
+                  "Adults: 500 mg-1 g 6-8 hourly",
+                  "Children: 6-12 years: 250-500 mg 6-8 hourly, 1-5 years: 120-250 mg 6-8 hourly, 3 months-1 year: 60-120 mg 6-8 hourly"
+                ],
+                "IV fluids and blood transfusion": "as required",
+                "Amoxicillin": [
+                  "Adults: 500 mg 8 hourly",
+                  "Children: 6-12 years: 250 mg 8 hourly, 1-5 years: 125 mg 8 hourly, 1 year: 62.5 mg 8 hourly"
+                ]
+              }
+            }
+          }
+        }
+
+    },
+    {
+        "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+        "input":"The patient displays night blindness and dryness of the eyes, along with Bitot's spots on the conjunctiva. Ophthalmic assessment indicates a potential deficiency of vitamin A, contributing to these ocular manifestations.",
+        "output":{
+          "Suspected medical condition":"Vitamin-A Deficiency",
+          "Causes":[
+            "Vitamin A deficiency resulting from",
+          "Protein calorie malnutrition",
+          "Measles",
+          "Malabsorption states"
+          ],
+          "Treatment": {
+            "Objectives": [
+              "To recognize and correct vitamin A deficiency",
+              "To prevent complications e.g. blindness"
+            ],
+            "Non-Pharmacological": "High vitamin A containing foods should be encouraged",
+            "Pharmacological": {
+              "Give Vitamin A to children as soon as the illness is diagnosed and also in patients with measles and malnutrition": {
+                "Vitamin A": {
+                  "Children": [
+                    "Immediately after diagnosis:",
+                    "1-6 years: 200,000 Units",
+                    "6-11 months: 100,000 Units",
+                    "Then (after 24 hours):",
+                    "1-6 years: 200,000 Units",
+                    "6-11 months: 100,000 Units",
+                    "Then (after 1 week):",
+                    "1 - 6 years: 200,000 Units",
+                    "6-11 months: 100,000 Units"
+                  ]
+                }
+              }
+            }
+          }
+        }
+
+    },
+    {
+        "prompt": "As a medical copilot, please generate intervention, causes, treatment, investigation and medical diagnosis based on the patient's input.",
+        "input":"The patient presents with painless skin lesions, including papules that ulcerate and develop into crusted plaques. These lesions are mainly located on the limbs. The patient reports a history of contact with individuals exhibiting similar symptoms, suggesting a possible transmission route.",
+        "output":{
+          "Suspected medical condition":"Yaws",
+          "Causes":["Treponema pertenue"],
+          "Treatment": {
+            "Objectives": [
+              "To eradicate the organism and ensure cure",
+              "To prevent spread of the infection",
+              "To prevent long term complications"
+            ],
+            "Non-Pharmacological": ["None"],
+            "Pharmacological": {
+              "Single Dose Treatment for Yaws": {
+                "Azithromycin": {
+                  "Adults": "30 mg/kg body weight (max. 2 g) as a single dose",
+                  "Children": [
+                    ">15 years: 2 g",
+                    "10-15 years: 1.5 g",
+                    "6-9 years: 1 g",
+                    "6 months-6 years: 500 mg (syrup preferable)",
+                    "< 6 months: not recommended"
+                  ]
+                }
+              },
+              "For Non-response or Non-availability of Azithromycin": {
+                "Benzathine Penicillin": {
+                  "Adults": "1.2 million units stat",
+                  "Children": [
+                    ">10 years: 1.2 MU stat",
+                    "< 10 years: 600,000 units stat"
+                  ]
+                }
+              }
+            }
+          }
+        }
+
     }
-  ]
+
+
+]
   
