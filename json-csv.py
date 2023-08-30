@@ -2,7 +2,7 @@ import json
 import csv
 
 # Load the JSON array from the file
-with open("output-referral.json", "r") as json_file:
+with open("data_aug/output-referral-reproduced.json", "r") as json_file:
     data_array = json.load(json_file)
 
 # Specify the CSV file name
